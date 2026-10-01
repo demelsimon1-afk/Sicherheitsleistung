@@ -25,39 +25,29 @@ const LANGUAGES = [
 
 const TEXT_DATABASE = {
   de: {
-    security_deposit: `1 Angabe Ihrer Personalien als Beschuldigte(r)/Betroffene(r).
-2  Angabe der Straftat/Ordnungswidrigkeit, die Ihnen vorgeworfen wird, der für die Sicherheitsleistung zuständigen 
-Behörde sowie deren Bankverbindung und Kassenzeichen. 
-3  Da Sie im Geltungsbereich des betreffenden Gesetzes keinen festen Wohnsitz oder Aufenthalt haben– können Sie zur Abwendung Ihrer Festnahme (§ 127a Strafprozessordnung [StPO])–  müssen Sie zur Sicherstellung des Straf-/Bußgeldverfahrens (§ 132 StPO), § 46 des Gesetzes über 
-Ordnungswidrigkeiten (OWiG)
-für die zu erwartende Geldstrafe/Geldbuße sowie für die Kosten des Verfahrens eine Sicherheit leisten. Die  
-Sicherheit kann, falls Sie nicht über Euro verfügen, in einer anderen konvertierbaren Währung, in Wertpapieren, 
-durch Pfandbestellung oder durch Bürgschaft geeigneter Dritter geleistet werden.
-Wenn Sie im Falle des § 132 StPO die Sicherheitsleistung nicht freiwillig erbringen und eine/einen Zu
-stellungsbevollmächtigte(n) nicht benennen, werden Beförderungsmittel oder andere Gegenstände, die Sie mit 
-sich führen und die Ihnen gehören, beschlagnahmt. Sie können hierzu jederzeit beim zuständigen Amtsgericht 
-die richterliche Entscheidung beantragen (§ 132 Abs. 3 i.V.m. § 98 Abs. 2 StPO). Sie haben die Möglichkeit, die 
-beschlagnahmten Gegenstände durch Überweisung der Sicherheitsleistung auf das unter Nr. 2 angegebene 
-Konto und ggf. durch nachträgliche Benennung einer/eines Zustellungsbevollmächtigten (s. Nr. 4) wieder 
-auszulösen.
-Der Geldbetrag bzw. die Gegenstände werden an die zuständige Behörde abgegeben. Im Falle der rechtskräftigen 
-Ahndung wird die Sicherheitsleistung mit der Geldstrafe/-buße und den Kosten des Verfahrens verrechnet sowie 
-die ggf. beschlagnahmten Sachen verwertet. Wird keine oder eine Geldstrafe/-buße in geringerer Höhe 
-festgesetzt, so wird der verbleibende Betrag oder die Sache an Sie zurückgegeben.
-4  Belehrung gemäß § 153a StPO:  
-"Sie wurden darüber belehrt, dass die Staatsanwaltschaft mit Ihrer Zustimmung gemäß § 153a Abs. 1 der 
-Strafprozessordnung (StPO) von einer Anklageerhebung gegen Zahlung einer Buße in Höhe der von Ihnen 
-aufgebrachten Sicherheitsleistung zugunsten der Staatskasse absehen kann. Außerdem wurde Ihnen eröffnet, 
-dass die Tat sodann nicht mehr als Vergehen bestraft wird, sondern das Verfahren, ohne dass zusätzliche Kosten 
-entstehen und eine Eintragung in das Bundeszentralregister erfolgt, endgültig eingestellt wird.  
-Als Beschuldigte(r) die/der darüber hinaus belehrt wurde, dass andernfalls die öffentliche Klage gegen sie/ihn 
-erhoben werden kann, sind Sie mit der Einstellung des Verfahrens und der von Ihnen aufgebrachten 
-Sicherheitsleistung als Buße gemäß § 153a Abs. 1 StPO einverstanden."
-Geben Sie bitte für den Fall, dass ein verbleibender Betrag an Sie zurückgegeben werden muss, ggf. Ihre/eine 
-andere Bankverbindung an.
-5  Sie bestätigen mit Ihrer Unterschrift, eine Durchschrift der „Niederschrift über eine Sicherheitsleistung“ und dieses 
-Hinweis-/Belehrungsblatt erhalten zu haben. Die/Der Polizeibeamtin/Polizeibeamte bestätigt durch Unterschrift 
-den Empfang der von Ihnen geleisteten Sicherheit.`
+    security_deposit: ` Hinweise/Belehrung zur Niederschrift über eine Sicherheitsleistung:
+
+1 Angabe Ihrer Personalien als Beschuldigte(r)/Betroffene(r).
+
+2 Angabe der Straftat/Ordnungswidrigkeit, die Ihnen vorgeworfen wird, der für die Sicherheitsleistung zuständigen Behörde sowie deren Bankverbindung und Kassenzeichen.
+
+3 Da Sie im Geltungsbereich des betreffenden Gesetzes keinen festen Wohnsitz oder Aufenthalt haben
+– können Sie zur Abwendung Ihrer Festnahme (§ 127a Strafprozessordnung [StPO])
+– müssen Sie zur Sicherstellung des Straf-/Bußgeldverfahrens (§ 132 StPO), § 46 des Gesetzes über Ordnungswidrigkeiten (OWiG)
+für die zu erwartende Geldstrafe/Geldbuße sowie für die Kosten des Verfahrens eine Sicherheit leisten. Die Sicherheit kann, falls Sie nicht über Euro verfügen, in einer anderen konvertierbaren Währung, in Wertpapieren, durch Pfandbestellung oder durch Bürgschaft geeigneter Dritter geleistet werden.
+
+Wenn Sie im Falle des § 132 StPO die Sicherheitsleistung nicht freiwillig erbringen und eine/einen Zustellungsbevollmächtigte(n) nicht benennen, werden Beförderungsmittel oder andere Gegenstände, die Sie mit sich führen und die Ihnen gehören, beschlagnahmt. Sie können hierzu jederzeit beim zuständigen Amtsgericht die richterliche Entscheidung beantragen (§ 132 Abs. 3 i.V.m. § 98 Abs. 2 StPO). Sie haben die Möglichkeit, die beschlagnahmten Gegenstände durch Überweisung der Sicherheitsleistung auf das unter Nr. 2 angegebene Konto und ggf. durch nachträgliche Benennung einer/eines Zustellungsbevollmächtigten (s. Nr. 4) wieder auszulösen.
+
+Der Geldbetrag bzw. die Gegenstände werden an die zuständige Behörde abgegeben. Im Falle der rechtskräftigen Ahndung wird die Sicherheitsleistung mit der Geldstrafe/-buße und den Kosten des Verfahrens verrechnet sowie die ggf. beschlagnahmten Sachen verwertet. Wird keine oder eine Geldstrafe/-buße in geringerer Höhe festgesetzt, so wird der verbleibende Betrag oder die Sache an Sie zurückgegeben.
+
+4 Belehrung gemäß § 153a StPO:
+"Sie wurden darüber belehrt, dass die Staatsanwaltschaft mit Ihrer Zustimmung gemäß § 153a Abs. 1 der Strafprozessordnung (StPO) von einer Anklageerhebung gegen Zahlung einer Buße in Höhe der von Ihnen aufgebrachten Sicherheitsleistung zugunsten der Staatskasse absehen kann. Außerdem wurde Ihnen eröffnet, dass die Tat sodann nicht mehr als Vergehen bestraft wird, sondern das Verfahren, ohne dass zusätzliche Kosten entstehen und eine Eintragung in das Bundeszentralregister erfolgt, endgültig eingestellt wird.
+Als Beschuldigte(r) die/der darüber hinaus belehrt wurde, dass andernfalls die öffentliche Klage gegen sie/ihn erhoben werden kann, sind Sie mit der Einstellung des Verfahrens und der von Ihnen aufgebrachten Sicherheitsleistung als Buße gemäß § 153a Abs. 1 StPO einverstanden."
+
+Geben Sie bitte für den Fall, dass ein verbleibender Betrag an Sie zurückgegeben werden muss, ggf. Ihre/eine andere Bankverbindung an.
+
+5 Sie bestätigen mit Ihrer Unterschrift, eine Durchschrift der „Niederschrift über eine Sicherheitsleistung“ und dieses Hinweis-/Belehrungsblatt erhalten zu haben. Die/Der Polizeibeamtin/Polizeibeamte bestätigt durch Unterschrift den Empfang der von Ihnen geleisteten Sicherheit.`
+
   },
   en: { 
     security_deposit: ` Information/Instruction on the Bail Payment Recording Process:
