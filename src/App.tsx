@@ -76,94 +76,108 @@ Please give the details of your bank account or a different bank account in case
 5 On signing this document you are confirming receipt of a copy of the "Bail Payment Record" and this information/ instruction sheet. The police officer signs to acknowledge receipt of your bail payment.`
   },
   fr: { 
-    security_deposit: `1 Indication de vos données personnelles en tant qu'accusé(e)/personne concernée.
+    security_deposit: ` Information sur le procès-verbal de dépôt de caution: 
 
-2 Indication de l'infraction pénale/infraction administrative qui vous est reprochée, de l'autorité compétente pour le dépôt de garantie, ainsi que de ses coordonnées bancaires et de son numéro de référence.
+1 Indication de votre identité en tant que prévenu(e) / intéressé(e). 
 
-3 Étant donné que vous n'avez ni domicile fixe ni résidence dans le champ d'application de la loi concernée
-– vous pouvez, pour éviter votre arrestation (art. 127a du Code de procédure pénale [StPO])
-– vous devez, pour garantir la procédure pénale/d'amende (art. 132 StPO), art. 46 de la loi sur les infractions administratives (OWiG)
-fournir une garantie pour l'amende/la peine pécuniaire attendue ainsi que pour les frais de la procédure. Si vous ne disposez pas d'euros, la garantie peut être fournie dans une autre monnaie convertible, en valeurs mobilières, par mise en gage ou par le cautionnement de tiers appropriés.
+2 Indication du délit/de l'infraction administrative qui vous est reproché(e), de l'administration compétente pour le dépôt de la caution, de ses coordonnées bancaires et de la référence de la transaction. 
 
-Si, dans le cas de l'art. 132 StPO, vous ne fournissez pas volontairement le dépôt de garantie et ne désignez pas de mandataire pour la signification des actes, les moyens de transport ou autres objets que vous transportez avec vous et qui vous appartiennent seront confisqués. Vous pouvez demander à tout moment une décision judiciaire à ce sujet auprès du tribunal d'instance compétent (art. 132 al. 3 en liaison avec l'art. 98 al. 2 StPO). Vous avez la possibilité de récupérer les objets confisqués en transférant le dépôt de garantie sur le compte indiqué au point 2 et, le cas échéant, en désignant ultérieurement un mandataire pour la signification (voir point 4).
+3 Étant donné que vous n'avez pas de domicile ou de lieu de résidence fixe sur le territoire d'application de la loi en question,
 
-La somme d'argent ou les objets seront remis à l'autorité compétente. En cas de condamnation ayant force de chose jugée, le dépôt de garantie sera compensé par l'amende/la peine pécuniaire et les frais de la procédure, et les objets éventuellement confisqués seront valorisés. Si aucune amende/peine pécuniaire ou une amende/peine pécuniaire d'un montant inférieur est fixée, le montant restant ou l'objet vous sera restitué.
+– vous pouvez, pour éviter votre arrestation (§ 127a du code de procédure pénale [StPO]),
 
-4 Instruction conformément à l'art. 153a StPO :
-"Vous avez été informé(e) que le ministère public, avec votre consentement, conformément à l'art. 153a al. 1 du Code de procédure pénale (StPO), peut s'abstenir de porter des accusations en échange du paiement d'une amende d'un montant égal au dépôt de garantie que vous avez fourni en faveur du Trésor public. Il vous a également été communiqué que l'acte ne sera alors plus puni comme une infraction, mais que la procédure sera définitivement classée sans frais supplémentaires et sans inscription au casier judiciaire central fédéral.
-En tant qu'accusé(e) qui a par ailleurs été informé(e) qu'à défaut, des accusations publiques pourraient être portées contre vous, vous acceptez le classement de la procédure et le dépôt de garantie que vous avez fourni en tant qu'amende conformément à l'art. 153a al. 1 StPO."
+– vous devez, pour garantir le bon déroulement de la procédure pénale / d'amende (§ 132 du StPO), en vertu du § 46 de la loi sur les infractions (OWiG), 
+verser une caution destinée à couvrir l'amende à prévoir et les coûts de la procédure. Au cas où vous ne disposeriez pas d'argent en euros, la caution peut être versée dans une autre monnaie convertible, sous forme de titres, de gage ou de garantie de la part d'un tiers qualifié. 
 
-Veuillez indiquer vos coordonnées bancaires ou d'autres coordonnées bancaires au cas où un montant restant devrait vous être restitué.
+Conformément au § 132 du StPO, à défaut de dépôt volontaire de la caution et de désignation d'un domiciliataire, le véhicule ou d'autres objets se trouvant en votre possession et qui vous appartiennent seront saisis. À ce sujet, vous pouvez à tout moment requérir une décision de justice auprès du tribunal compétent (§ 132 alinéa 3, associé au § 98 alinéa 2 du StPO). Vous avez la possibilité de récupérer les objets saisis en effectuant un virement de la caution sur le compte dont les références figurent à la section nº2 et, le cas échéant, en désignant ultérieurement un domiciliataire (cf. section no 4). 
 
-5 Par votre signature, vous confirmez avoir reçu une copie du "Procès-verbal relatif à un dépôt de garantie" et de la présente fiche d'information/d'instruction. L'agent(e) de police confirme par sa signature la réception de la garantie que vous avez fournie.`
+La somme d'argent ou les objets seront remis à l'administration compétente. En cas de sanction exécutoire, la caution sera déduite de l'amende et des frais de procédure, et les objets éventuellement saisis seront liquidés. Si aucune amende n'est arrêtée ou si elle est d'un montant moindre que la caution, la somme restante ou les objets restants vous seront rendus. 
+
+4 Information en vertu du § 153a du StPO : 
+« Vous avez été informé(e) que la magistrature du parquet peut, avec votre accord et en vertu du code de procédure pénale (StPO), § 153a, alinéa 1, rejeter une mise en accusation moyennant le paiement au Trésor public d'une amende s'élevant au montant de la caution que vous avez fournie. Il vous a en outre été expliqué que, dans ce cas, les faits ne seront plus sanctionnés comme un délit mais que la procédure sera classée sans suite, sans occasionner de frais supplémentaires ni de mention au casier judiciaire national. 
+
+En tant que prévenu(e) ayant été informé(e) en outre que, à défaut, une action publique pourrait être introduite contre vous, vous êtes d'accord pour un arrêt de la procédure et pour un versement de la caution que vous avez fournie au titre d'amende, en vertu du § 153a alinéa 1 du StPO. » 
+
+Veuillez indiquer les références de votre (ou d'un autre) compte bancaire, pour le cas où un montant excédentaire devrait vous être remboursé. 
+
+5 Par votre signature, vous confirmez avoir reçu une copie du document intitulé « Procès-verbal de dépôt de caution » ainsi que le présent formulaire d'information. L'agent de police accuse réception de votre caution en signant à son tour..`
   },
   
   es: { 
-    security_deposit: `1 Indicación de sus datos personales como acusado/afectado.
+    security_deposit: ` Notas/instrucción relativa al escrito sobre un depósito de garantía: 
 
-2 Indicación del delito penal/infracción administrativa que se le imputa, de la autoridad responsable de la fianza, así como de sus datos bancarios y número de referencia.
+1 Indicación de sus datos personales como acusado(a)/afectado(a). 
 
-3 Dado que no tiene un domicilio fijo o residencia en el ámbito de aplicación de la ley pertinente
-– puede, para evitar su arresto (Art. 127a de la Ley de Enjuiciamiento Criminal [StPO])
-– debe, para asegurar el procedimiento penal/de multa (Art. 132 StPO), Art. 46 de la Ley de Infracciones Administrativas (OWiG)
-prestar una fianza para la multa/sanción esperada, así como para las costas del procedimiento. Si no dispone de euros, la fianza puede prestarse en otra moneda convertible, en valores, mediante prenda o mediante garantía de terceros idóneos.
+2 Indicación del delito/infracción del reglamento que le ha sido imputado, de la autoridad competente en relación al depósito de garantía, así como de la cuenta bancaria y el número de referencia. 
 
-Si, en el caso del Art. 132 StPO, no presta voluntariamente la fianza y no nombra a un representante para notificaciones, se confiscarán los medios de transporte u otros objetos que lleve consigo y que le pertenezcan. Puede solicitar una decisión judicial al respecto en cualquier momento ante el tribunal de distrito competente (Art. 132 apdo. 3 en relación con el Art. 98 apdo. 2 StPO). Tiene la opción de liberar los objetos confiscados transfiriendo la fianza a la cuenta especificada en el punto 2 y, si procede, nombrando posteriormente a un representante para notificaciones (ver punto 4).
+3 Debido a que usted carece de domicilio o residencia fija, en relación al ámbito de aplicación de las leyes correspondientes
 
-La cantidad de dinero o los objetos se entregarán a la autoridad competente. En caso de una sanción jurídicamente vinculante, la fianza se compensará con la multa/sanción y las costas del procedimiento, y se utilizarán los objetos confiscados, en su caso. Si no se fija ninguna multa/sanción o si se fija una multa/sanción por un importe inferior, se le devolverá la cantidad restante o el objeto.
+– podrá usted, con objeto de evitar su detención (art. 127a del Código alemán de Enjuiciamiento Criminal [StPO]),
 
-4 Instrucción conforme al Art. 153a StPO:
-"Se le ha informado que el ministerio público, con su consentimiento, conforme al Art. 153a apdo. 1 de la Ley de Enjuiciamiento Criminal (StPO), puede abstenerse de presentar cargos a cambio del pago de una multa por el importe de la fianza que usted ha aportado a favor del erario público. También se le ha informado que el acto ya no será castigado como un delito, sino que el procedimiento se sobreseerá definitivamente sin incurrir en costes adicionales y sin que se realice una inscripción en el Registro Central Federal.
-Como acusado que también ha sido informado de que, de lo contrario, se podrían presentar cargos públicos contra usted, acepta el sobreseimiento del procedimiento y la fianza que ha aportado como multa conforme al Art. 153a apdo. 1 StPO."
+– debe usted, con objeto de garantizar la ejecución del proceso penal/sancionador (art. 132 StPO), art. 46 de la Ley alemana de contravenciones e infracciones administrativas (OWiG), 
 
-Por favor, indique sus datos bancarios u otros datos bancarios en caso de que se le deba devolver una cantidad restante.
+presentar un depósito de garantía en relación a la sanción pecuniaria/multa pecuniaria, así como en relación a los gastos del procedimiento. En caso de que no disponga de euros, el depósito de garantía podrá presentarse en una divisa convertible diferente, en valores, así como por pignoración o aval de una tercera parte adecuada. 
 
-5 Con su firma confirma haber recibido una copia del "Acta sobre una fianza" y de esta hoja de información/instrucción. El/la oficial de policía confirma con su firma la recepción de la fianza prestada por usted.`
+En caso de que, en virtud del art. 132 StPO, usted no presente voluntariamente el depósito de garantía y no nombre a un/una apoderado(a) a efectos de notificación, se procederá a la incautación de los medios de automoción u otros objetos que traiga consigo y le pertenezcan. En este sentido y en cualquier momento, podrá usted solicitar la resolución judicial pertinente en el juzgado de primera instancia e instrucción correspondiente (art. 132 párr. 3 y art. 98 párr. 2 StPO). Tendrá la opción de recuperar los objetos incautados, siempre y cuando ingrese el depósito de garantía en la cuenta bancaria indicada en el nº 2 mediante transferencia bancaria y, si fuera necesario, nombre posteriormente a un/una apoderado(a) a efectos de notificación (consulte nº 4). 
+
+El importe dinerario o los objetos serán entregados a las autoridades competentes. En caso de que, finalmente, se ejecute la penalización jurídica, el depósito de garantía se compensará con la sanción/multa pecuniaria. y los gastos del procedimiento, o se procederá a emplear los bienes incautados para dicha compensación. En caso de que no se imponga sanción alguna o se imponga una sanción/multa pecuniaria de inferior valor, le será devuelto el importe restante o los bienes correspondientes. 
+
+4 Instrucción en virtud del art. 153a StPO: "Ha sido usted informado de que la fiscalía, previo consentimiento expreso por su parte y en virtud del art. 153a párr. 1 del Código alemán de Enjuiciamiento Criminal (StPO), podrá prescindir de ejecutar el procesamiento previo pago de una multa que ascienda al importe del depósito de garantía presentado por usted en beneficio del erario público. Además, también se le ha notificado, que el hecho ya no será castigado como un delito, sino que el procedimiento será finalmente sobreseído, sin que surjan gastos adicionales o se proceda a realizar una inscripción en el Registro Federal Central. 
+Como acusado(a) que ha sido informado(a) de que, en caso contrario, se podría presentar una acusación pública contra su persona, se declara usted de acuerdo con el sobreseimiento del procedimiento y la presentación de un depósito de garantía por su parte y a modo de multa en virtud del art. 153a párr. 1 StPO)". 
+
+Por favor, en caso de que reste un importe que le deba ser devuelto, indique un número de cuenta bancaria. 
+
+5 Por la presente y mediante su firma, confirma usted haber recibido una copia del documento "Escrito sobre un depósito de garantía" y una hoja informativa sobre las notas/instrucción. El/la agente policial confirma mediante su firma la recepción del depósito de garantía presentado por usted.`
   },
   it: { 
-    security_deposit: `1 Indicazione delle Sue generalità in qualità di indagato/interessato.
+    security_deposit: ` Informazioni/ammonimento relativi al verbale sulla cauzione: 
 
-2 Indicazione del reato penale/illecito amministrativo che Le viene contestato, dell'autorità competente per il deposito cauzionale, nonché delle sue coordinate bancarie e del numero di riferimento.
+1 Comunicazione dei Suoi dati personali in quanto accusato/a/persona coinvolta. 
 
-3 Poiché non ha un domicilio fisso o una residenza nell'ambito di applicazione della legge in questione
-– può, per evitare il Suo arresto (Art. 127a del Codice di Procedura Penale [StPO])
-– deve, per garantire il procedimento penale/per sanzione amministrativa (Art. 132 StPO), Art. 46 della Legge sulle violazioni amministrative (OWiG)
-prestare una cauzione per la multa/sanzione prevista e per le spese del procedimento. Qualora non disponga di Euro, la cauzione può essere prestata in un'altra valuta convertibile, in titoli, mediante pegno o tramite fideiussione di terzi idonei.
+2 Comunicazione del reato penale/illecito amministrativo oggetto dell'accusa, delle autorità competenti per la cauzione nonché relative coordinate bancarie e del riferimento del versamento. 
 
-Se, nel caso dell'Art. 132 StPO, non versa volontariamente il deposito cauzionale e non nomina un domiciliatario, i mezzi di trasporto o altri oggetti che porta con Sé e che Le appartengono saranno sequestrati. Può richiedere in qualsiasi momento una decisione giudiziaria al riguardo presso il tribunale distrettuale competente (Art. 132 comma 3 in combinato disposto con l'Art. 98 comma 2 StPO). Ha la possibilità di sbloccare gli oggetti sequestrati trasferendo il deposito cauzionale sul conto indicato al punto 2 e, se del caso, nominando successivamente un domiciliatario (vedi punto 4).
+3 Dal momento che Lei non ha una residenza o dimora fissa nell'ambito di applicazione della legge in questione,
 
-La somma di denaro o gli oggetti saranno consegnati all'autorità competente. In caso di condanna passata in giudicato, il deposito cauzionale sarà compensato con la multa/sanzione e le spese del procedimento e gli oggetti eventualmente sequestrati saranno valorizzati. Se non viene stabilita alcuna multa/sanzione o viene stabilita una multa/sanzione di importo inferiore, l'importo rimanente o l'oggetto Le sarà restituito.
+– per evitare l'arresto (§ 127a del Codice di Procedura Penale tedesco StPO) ha la facoltà di
 
-4 Informazione ai sensi dell'Art. 153a StPO:
-"È stato/a informato/a che il pubblico ministero, con il Suo consenso, ai sensi dell'Art. 153a comma 1 del Codice di Procedura Penale (StPO), può astenersi dal promuovere l'azione penale a fronte del pagamento di una sanzione pecuniaria pari all'importo del deposito cauzionale da Lei versato a favore dell'erario. Le è stato inoltre comunicato che il fatto non sarà quindi più punito come reato, ma che il procedimento sarà definitivamente archiviato senza ulteriori costi e senza che venga effettuata alcuna iscrizione nel casellario giudiziale centrale federale.
-In qualità di indagato/a che è stato/a inoltre informato/a che, in caso contrario, potrebbe essere promossa l'azione penale pubblica nei Suoi confronti, acconsente all'archiviazione del procedimento e al deposito cauzionale da Lei versato a titolo di sanzione pecuniaria ai sensi dell'Art. 153a comma 1 StPO."
+– per garantire il procedimento penale/per infrazioni amministrative (§ 132 del Codice di Procedura Penale tedesco - StPO), § 46 della Legge tedesca sulle contravvenzioni (OWiG), è tenuto/a a 
+corrispondere una cauzione per la pena pecuniaria/sanzione prevista nonché per i costi del procedimento. Se non dispone di Euro, la cauzione può essere versata in un'altra valuta convertibile, in titoli, tramite costituzione in pegno o fideiussione di Terzi aventi i requisiti necessari. 
 
-Si prega di fornire le proprie coordinate bancarie o altre coordinate bancarie nel caso in cui un importo residuo debba esserLe restituito.
+Qualora nel caso di cui al § 132 del Codice di procedura penale tedesco (StPO) Lei non versi volontariamente la cauzione e non nomini un/una domiciliatario/a, verranno confiscati i mezzi di trasporto o altri oggetti che porta con sé e che Le appartengono. A tal proposito, Lei ha la facoltà di appellarsi in qualsiasi momento al Tribunale di prima istanza competente in materia (§ 132 comma 3 associato al. § 98 comma 2 del Codice di Procedura Penale tedesco - StPO). Ha la possibilità di riscattare gli oggetti confiscati versando la cauzione tramite bonifico al conto indicato al punto 2 ed eventualmente nominando successivamente un/una domiciliatario/a (vedere punto 4). 
 
-5 Con la Sua firma conferma di aver ricevuto una copia del "Verbale relativo a un deposito cauzionale" e di questo foglio informativo/di istruzioni. L'ufficiale di polizia conferma con la propria firma la ricezione della cauzione da Lei prestata.`
+La somma in denaro o gli oggetti vengono consegnati all'autorità competente. In caso di sanzione con effetto di cosa giudicata, la cauzione viene compensata con la pena pecuniaria/sanzione e con i costi del processo, e vengono realizzati gli eventuali oggetti confiscati. Qualora non venga stabilita alcuna pena pecuniaria/sanzione o la pena pecuniaria/sanzione abbia un valore inferiore, l'importo rimanente o gli oggetti Le verranno restituiti. 
+
+4 Ammonimento ai sensi del § 153a del Codice di Procedura penale tedesco (StPO): "Lei è stato/a messo al corrente del fatto che con il Suo consenso conformemente al § 153a comma 1 del Codice di Procedura Penale tedesco (StPO), la Pubblica Accusa può prescindere dalla promozione dell'accusa in cambio del versamento di una sanzione dell'ammontare della cauzione applicatale a favore dell'erario. Le è stato inoltre comunicato che in questo modo il reato non verrà più sanzionato come delitto, ma il procedimento verrà archiviato definitivamente senza che ne derivino costi aggiuntivi e senza alcuna registrazione nel Registro centrale federale. In qualità di accusato/a informato del fatto che in caso contrario può essere intentata a Suo carico un'azione penale, Lei acconsente all'archiviazione del procedimento e al versamento della cauzione come sanzione ai sensi del § 153a comma 1 del Codice di Procedura Penale tedesco (StPO)." 
+
+Indichi le Sue coordinate bancarie (o delle coordinate bancarie di Terzi) per la restituzione di un eventuale importo rimanente. 
+
+5 Con la Sua firma conferma di aver ricevuto una copia del "Verbale sulla cauzione" e il presente foglio di istruzioni e ammonimento. L'autorità di polizia conferma con una firma la ricezione della cauzione da Lei versata.`
   },
   ru: { 
-    security_deposit: `1 ???????? ????? ???????????? ?????? ? ???????? ???????????/????????????.
+    security_deposit: ` Указания/разъяснение к протоколу о внесение залога в качестве меры пресечения:
 
-2 ???????? ?????????? ????????????/????????????????? ??????????????, ? ??????? ??? ????????, ??????, ?????????????? ?? ???????? ??????, ? ????? ??? ?????????? ?????????? ? ?????? ?????????.
+1 Сообщение Ваших личных данных в качестве обвиняемой(го)/лица, которого это касается.
 
-3 ????????? ? ??? ??? ??????????? ????? ?????????? ??? ?????????? ? ???? ???????? ???????????????? ??????
-– ?? ?????? ?? ????????? ?????????? (§ 127a ????????-??????????????? ??????? [StPO])
-– ?? ?????? ??? ??????????? ?????????? ????????????/???????????? ?? ???? ?? ???????????????? ?????????????? (§ 132 StPO), § 46 ?????? ?? ???????????????? ??????????????? (OWiG)
-?????? ????? ?? ????????? ?????/????, ? ????? ?? ???????? ????????. ???? ? ??? ??? ????, ????? ????? ???? ?????? ? ?????? ?????????????? ??????, ? ?????? ???????, ????? ?????? ????????? ??? ?????????????? ?????????? ??????? ???.
+2 Указание на уголовно наказуемое деяние/нарушение общественного порядка, которое вменяется Вам, органом, компетентным в отношении внесения залога в качестве меры пресечения, а также его банковских реквизитов и номеров счетов. 
 
-???? ? ?????? § 132 StPO ?? ?? ??????? ????? ??????????? ? ?? ????????? ??????????????? ?? ????????? ??????????, ???????????? ???????? ??? ?????? ????????, ??????? ?? ?????? ? ????? ? ??????? ??? ???????????, ????? ????????????. ?? ?????? ? ????? ????? ?????? ????????? ? ???????? ????????? ??????? ?? ????? ?????? ? ???????????? ?????????? ??? (§ 132 ???. 3 ? ????????? ? § 98 ???. 2 StPO). ? ??? ???? ??????????? ???????? ?????????????? ????????, ?????????? ????? ?? ????, ????????? ? ?. 2, ?, ??? ?????????????, ????????????? ???????? ??????????????? ?? ????????? ?????????? (??. ?. 4).
+3 Поскольку Вы в сфере действия соответствующего закона не имеете постоянного места жительства или пребывания
 
-???????? ????? ??? ???????? ?????????? ????????????? ??????. ? ?????? ?????????? ????????? ? ???????? ???? ????? ????????????? ? ???? ??????/???? ? ???????? ????????, ? ?????????????? ????????, ??? ?? ???????, ???????????. ???? ?????/???? ?? ??????????? ??? ??????????? ? ??????? ???????, ?????????? ????? ??? ??????? ???????????? ???.
+– Вы можете во избежание Вашего задержания (§ 127a Уголовно-процессуального кодекса [StPO])
 
-4 ??????????? ???????? § 153a StPO:
-"??? ???? ??????????, ??? ??????????? ? ?????? ???????? ? ???????????? ? § 153a ???. 1 ????????-??????????????? ??????? (StPO) ????? ?????????? ?? ???????????? ????????? ? ????? ?? ??????? ?????? ? ??????? ?????????? ???? ?????? ? ?????? ??????????????? ?????. ????? ????, ??? ???? ????????, ??? ?????? ? ????? ?????? ?????? ?? ????? ???????????? ??? ??????????????, ? ???? ????? ???????????? ?????????? ??? ?????????????? ???????? ? ???????? ?????? ? ??????????? ??????????? ?????? ??????????.
-??? ??????????, ???????? ????????????? ???? ??????????, ??? ? ????????? ?????? ?????? ???? ????? ???? ????????? ????????? ?????????, ?? ???????? ? ???????????? ???? ? ????????? ?????????? ???? ?????? ? ???????? ?????? ???????? § 153a ???. 1 StPO."
+– Вы должны в целях обеспечения проведения производства по уголовному делу/наложению денежного штрафа (§ 132 Уголовно-процессуального кодекса (StPO)), § 46 Закона об административных правонарушениях (OwiG)
 
-??????????, ??????? ????/???? ?????????? ????????? ?? ??????, ???? ?????????? ????? ?????? ???? ??? ??????????.
+внести залог для покрытия ожидаемого денежного штрафа/ущерба потерпевшего, а также издержек на производство по делу. Залог может быть внесен, если Вы не располагаете евро, в другой конвертируемой валюте, ценными бумагами, путем установления залога на движимое имущество или поручительства со стороны подходящего третьего лица.
 
-5 ????? ???????? ?? ????????????? ????????? ????? "????????? ? ???????? ??????" ? ??????? ???????????????/?????????????? ?????. ????????? ??????? ???????????? ????????? ?????????? ???? ?????? ????? ????????.`
-  },
+Если Вы в случае, предусмотренном § 132 Уголовно-процессуального кодекса (StPO), добровольно не внесете залог в качестве меры пресечения и не назовете лицо, уполномоченное принимать документы в установленном порядке, будут конфискованы транспортные средства или другие предметы, которыми Вы пользуетесь, и которые Вам принадлежат. Вы для этого в любое время можете ходатайствовать перед компетентным судом первой инстанции о принятии судебного решения (§ 132 абз. 3 в сочетании с § 98 абз. 2 Уголовно-процессуального кодекса (StPO)). У Вас имеется возможность путем перечисления суммы залога в качестве меры пресечения на указанный в п. № 2 счет и при необходимости путем последующего названия лица, уполномоченного принимать документы в установленном порядке (см. п. № 4), выкупить конфискованные предметы.
+
+Денежная сумма или предметы сдаются в уполномоченный орган. В случае уголовного преследования в соответствии с законом залог в качестве меры пресечения пойдет в зачет денежного штрафа/суммы ущерба потерпевшего и издержек на производство по делу, а также при необходимости конфискованные вещи будут реализованы. Если денежный штраф/сумма ущерба потерпевшего будет назначена в меньшем размере, то оставшаяся сумма или вещь будут возвращены Вам.
+
+4 Разъяснение согласно § 153a Уголовно-процессуального кодекса (StPO): "Вам было разъяснено, что прокуратура с Вашего согласия в соответствии с § 153a абз. 1 Уголовно процессуального кодекса (StPO) может отказаться от предъявления обвинения после уплаты денежного штрафа в размере внесенного Вами залога в качестве меры пресечения в пользу государства. Кроме того, Вам было сообщено, что совершенное Вами деяние затем не будет квалифицироваться как преступление, а производство по делу будет окончательно прекращено, при этом не возникнет дополнительных издержек и не последует внесения в Федеральный центральный реестр правонарушений. Как обвиняемой(му), кроме того, было разъяснено, что в ином случае против нее/него может быть предъявлено обвинение в уголовном процессе, Вы согласны с прекращением производства по делу и с внесенным залога в качестве меры пресечения как наказание согласно § 153a абз. 1 Уголовно процессуального кодекса (StPO).“
+
+Просим сообщить на тот случае, если оставшаяся сумма должна будет возвращена Вам, соответственно реквизиты Вашего/другого банка.
+
+5 Вы подтверждаете своей подписью, что получили копию "Протокола о внесение залога в качестве меры пресечения" и настоящий лист указаний/разъяснений. Служащая(ий) полиции подтверждает подписью получение внесенного Вами залога в качестве меры пресечения. 
+},
   pl: { 
     security_deposit: `1 Podanie danych osobowych jako oskarzonego/osoby, której dotyczy postepowanie.
 
