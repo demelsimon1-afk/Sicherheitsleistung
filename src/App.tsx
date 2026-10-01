@@ -179,271 +179,323 @@ Indichi le Sue coordinate bancarie (o delle coordinate bancarie di Terzi) per la
 5 Вы подтверждаете своей подписью, что получили копию "Протокола о внесение залога в качестве меры пресечения" и настоящий лист указаний/разъяснений. Служащая(ий) полиции подтверждает подписью получение внесенного Вами залога в качестве меры пресечения.` 
   },
   pl: { 
-    security_deposit: `1 Podanie danych osobowych jako oskarzonego/osoby, której dotyczy postepowanie.
+    security_deposit: ` Wskazówki/pouczenie dot. protokołu wniesienia kaucji:
 
-2 Podanie przestepstwa/wykroczenia, o które jestes oskarzony, organu odpowiedzialnego za wplate kaucji oraz jego danych bankowych i numeru referencyjnego.
+1 Podanie Pana/Pani danych osobowych jako obwinionego(-ej)/poszkodowanego(-ej),
 
-3 Poniewaz nie posiadasz stalego miejsca zamieszkania ani pobytu na obszarze objetym dana ustawa
-– mozesz, w celu unikniecia aresztowania (§ 127a Kodeksu Postepowania Karnego [StPO])
-– musisz, w celu zabezpieczenia postepowania karnego/w sprawie o wykroczenie (§ 132 StPO), § 46 Ustawy o wykroczeniach (OWiG)
-wniesc kaucje na poczet przewidywanej grzywny/kary pienieznej oraz kosztów postepowania. Jezeli nie posiadasz waluty Euro, kaucja moze zostac wniesiona w innej walucie wymienialnej, w papierach wartosciowych, w formie zastawu lub poreczenia udzielonego przez odpowiednie osoby trzecie.
+2 Podanie czynu karalnego/wykroczenia zarzucanego Panu/Pani, urzędu właściwego do wniesienia kaucji i nazwy jego banku i znaku kasowego.
 
-Jezeli w przypadku § 132 StPO nie wniesiesz kaucji dobrowolnie i nie wyznaczysz pelnomocnika do doreczen, srodki transportu lub inne przedmioty, które posiadasz przy sobie i które naleza do Ciebie, zostana zajete. Mozesz w kazdej chwili zlozyc wniosek o wydanie orzeczenia sadowego w tej sprawie do wlasciwego sadu rejonowego (§ 132 ust. 3 w zw. z § 98 ust. 2 StPO). Masz mozliwosc zwolnienia zajetych przedmiotów, przelewajac kwote kaucji na konto wskazane w pkt 2 i, w stosownych przypadkach, wyznaczajac nastepnie pelnomocnika do doreczen (patrz pkt 4).
+3 Ponieważ Pan/Pani w obszarze obowiązywania przedmiotowej ustawy nie ma stałego miejsca zamieszkania lub pobytu
 
-Kwota pieniezna lub przedmioty zostana przekazane wlasciwemu organowi. W przypadku prawomocnego ukarania, kaucja zostanie zaliczona na poczet grzywny/kary pienieznej i kosztów postepowania, a ewentualnie zajete przedmioty zostana spieniezone. Jezeli nie zostanie wymierzona zadna grzywna/kara pieniezna lub zostanie wymierzona w nizszej wysokosci, pozostala kwota lub przedmiot zostana Ci zwrócone.
+– może Pan/Pani w celu uniknięcia Pana/Pani zatrzymania (§ 127a niemieckiego kodeksu postępowania karnego (StPO))
 
-4 Pouczenie zgodnie z § 153a StPO:
-"Zostales poinformowany, ze prokuratura, za Twoja zgoda, zgodnie z § 153a ust. 1 Kodeksu Postepowania Karnego (StPO), moze odstapic od wniesienia aktu oskarzenia w zamian za zaplacenie nawiazki w wysokosci wniesionej przez Ciebie kaucji na rzecz Skarbu Panstwa. Zostales równiez poinformowany, ze czyn ten nie bedzie wówczas karany jako przestepstwo, ale postepowanie zostanie ostatecznie umorzone bez ponoszenia dodatkowych kosztów i bez wpisu do Federalnego Rejestru Centralnego.
-Jako oskarzony, który zostal dodatkowo poinformowany, ze w przeciwnym razie moze zostac wniesiony przeciwko Tobie akt oskarzenia, wyrazasz zgode na umorzenie postepowania i wniesiona przez Ciebie kaucje jako nawiazke zgodnie z § 153a ust. 1 StPO."
+– musi Pan/Pani w celu zabezpieczenia postępowania karnego/kary grzywny (§ 132 niemieckiego kodeksu postępowania karnego (StPO)), § 46 niemieckiej ustawy o wykroczeniach (OWiG)
 
-Prosimy o podanie danych swojego/innego konta bankowego na wypadek koniecznosci zwrotu pozostalej kwoty.
+wnieść zabezpieczenie na poczet oczekiwanej kary pieniężnej/grzywny i kosztów postępowania. Zabezpieczenie może być wniesione, jeżeli Pan/Pani nie dysponuje Euro, w innej walucie wymienialnej, papierach wartościowych, przez ustanowienie zastawu lub przez rękojmię odpowiednich osób trzecich.
 
-5 Swoim podpisem potwierdzasz odbiór kopii "Protokolu wniesienia kaucji" oraz niniejszego arkusza informacyjnego/pouczenia. Funkcjonariusz policji potwierdza swoim podpisem odbiór wniesionej przez Ciebie kaucji.`
+Jeżeli Pan/Pani w przypadku § 132 niemieckiego kodeksu postępowania karnego (StPO) nie wniesie kaucji dobrowolnie i nie wyznaczy pełnomocnika do przyjmowania doręczeń, zajęte zostaną środki transportu lub inne przedmioty należące do Pana/Pani, które Pan/Pani wozi ze sobą. W tej sprawie może Pan/Pani w każdej chwili we właściwym sądzie rejonowym wnioskować o orzeczenie sędziowskie (§ 132 ust. 3 w połączeniu z § 98 ust. 2 niemieckiego kodeksu postępowania karnego (StPO)). Pan/Pani ma możliwość wykupienia z powrotem zajętych przedmiotów przez przekazanie kaucji na konto podane pod nr. 2 i ew. przez późniejsze wyznaczenie pełnomocnika do przyjmowania doręczeń (zob. nr 4).
+
+Kwota pieniężna wzgl. przedmioty zostaną przekazane do właściwego urzędu. W przypadku prawomocnego ukarania kaucja zostanie rozliczona z karą pieniężną/grzywną i z kosztami postępowania, a ew. zajęte przedmioty spieniężone. Jeżeli kara pieniężna/grzywna nie zostanie lub zostanie ustalona w mniejszej wysokości, pozostała kwota lub przedmiot zostanie Panu/Pani zwrócony.
+
+4 Pouczenie według § 153a niemieckiego kodeksu postępowania karnego (StPO): "Został(-a) Pan/Pani pouczony(-a), że prokuratura za Pana/Pani zgodą według § 153a ust. 1 niemieckiego kodeksu postępowania karnego (StPO) może odstąpić od wniesienia oskarżenia w zamian za zapłatę grzywny w wysokości wniesionej przez Pana/Panią kaucji na korzyść skarbu państwa. Ponadto oznajmiono Panu/Pani, że czyn wtedy nie jest już karany jako przewinienie, lecz postępowanie zostaje definitywnie wstrzymane i nie powstają dodatkowe koszty ani wpis do Centralnego Rejestru Federacji. Jako obwiniony(-a), który(-a) ponadto został(-a) pouczony(-a), że w innym przypadku może być przeciwko niemu/ niej wniesione publiczne oskarżenie, zgadza się Pan/Pani na umorzenie postępowania i na grzywnę w wysokości wniesionej przez Pana/Panią kaucji według § 153a ust. 1 niemieckiego kodeksu postępowania karnego (StPO)."
+
+Proszę podać na wypadek, gdyby pozostała kwota musiała być Panu/Pani zwrócona, ew. Pana/Pani/inne dane bankowe.
+
+5 Pan/Pani swoim podpisem potwierdza otrzymanie przebitki „Protokołu o wniesieniu kaucji“ i niniejszego arkusza wskazówek/pouczeń. Funkcjonariusz policji potwierdza podpisem przyjęcie wniesionej przez Pana/Panią kaucji.`
   },
   
   ro: { 
-    security_deposit: `1 Furnizarea datelor dumneavoastra personale în calitate de persoana acuzata/implicata.
+    security_deposit: ` Instrucţiuni privitoare la procesul verbal de depunere a cauţiunii:
 
-2 Furnizarea detaliilor referitoare la infrac?iunea/contraven?ia de care sunte?i acuzat, autoritatea responsabila pentru cau?iune, precum ?i detaliile bancare ?i numarul de referin?a ale acesteia.
+ 1 Datele Dvs. personale în calitate de persoană acuzată/învinuită. 
 
-3 Deoarece nu ave?i domiciliul stabil sau re?edin?a în aria de aplicare a legii relevante
-– pute?i, pentru a evita arestarea dumneavoastra (Sec?iunea 127a din Codul de Procedura Penala [StPO])
-– trebuie, pentru a asigura procedurile penale/contraven?ionale (Sec?iunea 132 StPO), Sec?iunea 46 din Legea privind contraven?iile administrative (OWiG)
-sa oferi?i o garan?ie pentru amenda prevazuta ?i pentru costurile procedurii. Daca nu dispune?i de euro, garan?ia poate fi oferita într-o alta moneda convertibila, în valori mobiliare, prin gaj sau printr-o garan?ie din partea unor ter?i corespunzatori.
+2 Specificarea infracţiunii / contravenţiei care vi se impută, a autorităţii competente pentru depunerea cauţiunii, precum şi a contului său bancar şi a nr. reg. trezorerie. 
 
-Daca, în cazul Sec?iunii 132 StPO, nu oferi?i în mod voluntar cau?iunea ?i nu numi?i un mandatar pentru comunicarea documentelor, mijloacele de transport sau alte obiecte pe care le ave?i asupra dumneavoastra ?i care va apar?in vor fi confiscate. Pute?i solicita oricând o decizie judecatoreasca în acest sens de la judecatoria competenta (Sec?iunea 132 alin. 3 coroborat cu Sec?iunea 98 alin. 2 StPO). Ave?i op?iunea de a elibera obiectele confiscate prin transferarea cau?iunii în contul specificat la punctul 2 ?i, daca este cazul, prin numirea ulterioara a unui mandatar pentru comunicare (a se vedea punctul 4).
+3 Deoarece nu aveţi domiciliu sau reşedinţă stabilă pe teritoriul de valabilitate al legii respective
 
-Suma de bani sau obiectele vor fi predate autorita?ii competente. În cazul unei pedepse definitive, cau?iunea va fi compensata cu amenda ?i cu costurile procedurii, iar eventualele bunuri confiscate vor fi valorificate. Daca nu este stabilita nicio amenda sau este stabilita o amenda într-un cuantum mai mic, suma ramasa sau obiectul va vor fi returnate.
+– puteţi depune o cauţiune pentru a evita arestarea Dvs. (§ 127a Strafprozessordnung [StPO] (Cod procedură penală))
 
-4 Instruc?iuni în conformitate cu Sec?iunea 153a StPO:
-„A?i fost informat ca parchetul, cu consim?amântul dumneavoastra, în conformitate cu Sec?iunea 153a alin. 1 din Codul de procedura penala (StPO), poate renun?a la formularea acuza?iilor în schimbul pla?ii unei amenzi în cuantumul cau?iunii oferite de dumneavoastra în favoarea trezoreriei statului. De asemenea, vi s-a adus la cuno?tin?a ca fapta nu va mai fi pedepsita ca infrac?iune, ci procedura va fi oprita definitiv fara a se suporta costuri suplimentare ?i fara o înregistrare în Registrul Judiciar Central Federal.
-În calitate de persoana acuzata care a fost, de asemenea, informata ca, în caz contrar, se pot aduce acuza?ii publice împotriva dumneavoastra, sunte?i de acord cu oprirea procedurii ?i cu cau?iunea oferita de dumneavoastra sub forma de amenda în conformitate cu Sec?iunea 153a alin. 1 StPO.”
+– trebuie să depuneţi o cauţiune pentru a asigura finalizarea acţiunii penale / contravenţionale (§ 132 StPO(Cod procedură penală)) şi conform § 46 (OWiG) (Legea privind contravenţiile)
 
-Va rugam sa furniza?i detaliile dumneavoastra bancare sau ale altui cont bancar în cazul în care o suma ramasa trebuie sa va fie returnata.
+sumă care va acoperi amenda penală / contravenţională care se va pronunţa, precum şi cheltuielile de judecată. În cazul în care nu dispuneţi de sume de bani în Euro, cauţiunea se va putea depune şi în altă monedă convertibilă, în titluri de valoare, prin constituirea unui gaj sau printr-o scrisoare de garanţie emisă de un terţ acceptabil. 
 
-5 Prin semnatura dumneavoastra, confirma?i ca a?i primit o copie a „Procesului-verbal privind plata unei cau?iuni” ?i a acestei fi?e de informare/instruc?iuni. Ofi?erul de poli?ie confirma primirea garan?iei oferite de dumneavoastra prin semnatura sa.`
+În cazul prevăzut de § 132 StPO (Cod procedură penală), atunci când cauţiunea nu se depune în mod voluntar şi nici nu se desemnează un împuternicit pentru primirea corespondenţei, vor fi confiscate mijloacele de transport sau alte obiecte deţinute de Dvs. sau care vă aparţin. Aveţi posibilitatea să solicitaţi oricând judecătoriei competente luarea unei decizii judecătoreşti în această privinţă (§ 132 par. 3 în conexiune cu § 98 par. 2 StPO (Cod procedură penală). Obiectele confiscate vi se vor putea elibera ulterior, după ce veţi achita cauţiunea în contul menţionat la punctul 2, respectiv după ce veţi desemna un împuternicit pentru primirea corespondenţei Dvs. (vezi punctul 4). 
+
+Suma de bani, respectiv obiectele vor fi predate autorităţii competente. În cazul în care hotărârea va rămâne definitivă, din cauţiunea depusă se vor reţine amenda penală / contravenţională şi cheltuielile de judecată, respectiv obiectele confiscate vor fi vândute la licitaţie. În cazul în care nu se va emite nici o amendă sau atunci când contravaloarea amenzii penale sau contravenţionale este mai mică decât cauţiunea depusă, suma rămasă, respectiv obiectele confiscate vor fi restituite. 
+
+4 Instrucţiuni conform § 153a StPO (Cod procedură penală): "Vi s-a adus la cunoştinţă că procuratura poate renunţa la trimiterea în judecată numai cu acordul Dvs., conform § 153a par. 1 din cadrul Codului de procedură penală (StPO), cu condiţia de a achita o amendă egală cu contravaloarea cauţiunii depuse, sumă care urmează să fie virată în contul trezoreriei statului. De asemenea, vi s-a comunicat că fapta săvârşită nu va mai fi considerată atunci delict şi că dosarul va fi casat fără alte cheltuieli şi nu se realizează o înregistrare în registrul federal central. 
+În calitate de învinuit, care a fost instruit asupra faptului că în caz contrar va putea fi trimis în judecată, declaraţi că sunteţi de acord cu încetarea urmăririi penale şi cu virarea în contul trezoreriei statului a cauţiunii depuse şi considerate amendă stabilită conform § 153a par. 1 StPO (Cod procedură penală)." 
+
+Pentru eventualitatea în care suma rămasă urmează să vă fie restituită, vă rugăm menţionaţi contul Dvs. bancar sau al unei persoane de încredere. 
+
+5 Prin semnătura Dvs. confirmaţi primirea unei copii a prezentului „Proces verbal de depunere a unei cauţiuni” şi a unui exemplar din instrucţiunile de faţă. Ofiţerul de poliţie confirmă prin semnătura sa primirea cauţiunii depuse de Dvs.`
   },
   tr: { 
-    security_deposit: `1 Süpheli/Ilgili kisi olarak kisisel verilerinizin belirtilmesi.
+    security_deposit: ` Bir güvenlik hizmeti ile ilgili tutanak hakkında uyarılar/bilgilendirme:
 
-2 Size yöneltilen suç/idari para cezasinin, teminattan sorumlu makamin ve bu makamin banka bilgileri ile referans numarasinin belirtilmesi.
+1 Sanık/mağdur olarak kişisel bilgilerinizin belirtilmesi. 
 
-3 Ilgili yasanin geçerli oldugu alanda sabit bir ikametgahiniz veya kalis yeriniz olmadigi için
-– tutuklanmanizi önlemek için (Alman Ceza Muhakemesi Kanunu [StPO] Madde 127a)
-– ceza/para cezasi islemlerini güvence altina almak için (StPO Madde 132), Idari Suçlar Kanunu (OWiG) Madde 46 uyarinca
-beklenen para cezasi ve islem masraflari için bir teminat göstermeniz gerekir. Euro'nuz yoksa, teminat baska bir dönüstürülebilir para biriminde, menkul kiymetlerde, rehin verilerek veya uygun üçüncü sahislarin garantisi ile gösterilebilir.
+2 Tarafınıza ithamda bulunulan suçun/kural ihlalinin, güvenlik hizmetinden sorumlu kurumun ve bunların banka bilgileri ile ödeme numaraları hakkındaki bilgiler. 
 
-StPO Madde 132 durumunda, teminati gönüllü olarak yatirmazsaniz ve belgelerin tebligi için yetkili bir temsilci atamazsaniz, yaninizda tasidiginiz ve size ait olan ulasim araçlarina veya diger nesnelere el konulacaktir. Bu konuda yetkili yerel mahkemeden her zaman adli bir karar talep edebilirsiniz (StPO Madde 132 (3) ile baglantili olarak Madde 98 (2)). El konulan esyalari, teminat tutarini 2 numarada belirtilen hesaba havale ederek ve gerekirse daha sonra belgelerin tebligi için yetkili bir temsilci atayarak (bkz. No. 4) geri alma seçeneginiz vardir.
+3 İlgili kanunun geçerliliği kapsamında sabit bir ikametgahınızın veya ikametinizin olmaması nedeniyle
 
-Para miktari veya nesneler yetkili makama teslim edilecektir. Yasal olarak baglayici bir ceza durumunda, teminat para cezasi ve islem masraflarindan düsülecek ve el konulan esyalar degerlendirilecektir. Herhangi bir para cezasi belirlenmezse veya daha düsük bir miktarda belirlenirse, kalan miktar veya nesne size iade edilecektir.
+– tutuklanmanızın önlenmesi (Alman ceza muhakemeleri usulü [StPO] § 127a)
 
-4 StPO Madde 153a uyarinca bilgilendirme:
-"Savciligin, onayinizla, Alman Ceza Muhakemesi Kanunu'nun (StPO) 153a (1) maddesi uyarinca, devlet hazinesi lehine tarafinizca saglanan teminat tutarinda bir para cezasinin ödenmesi karsiliginda suçlamada bulunmaktan vazgeçebilecegi konusunda bilgilendirildiniz. Ayrica eylemin artik bir suç olarak cezalandirilmayacagi, ancak islemlerin ek masraf dogurmadan ve Federal Merkezi Adli Sicil Kaydi'na bir giris yapilmadan nihai olarak durdurulacagi da size bildirildi.
-Aksi takdirde hakkinizda kamu davasi açilabilecegi konusunda da bilgilendirilmis bir süpheli olarak, islemlerin durdurulmasini ve StPO Madde 153a (1) uyarinca tarafinizca saglanan teminatin para cezasi olarak kullanilmasini kabul ediyorsunuz."
+– Para cezası/parasal tazmin işleminin (Alman ceza muhakemeleri usulü (StPO) § 132) güvence altına alınması için, § 46 kural ihlalleri hakkındaki kanun (OWiG) 
 
-Kalan bir miktarin size iade edilmesi gerekebilecegi için lütfen kendi/baska bir banka hesap bilgilerinizi verin.
+beklenmekte olan para cezası/parasal tazmin ve işlem masrafları için bir güvence sağlamanız gerekmektedir. Bu güvence, Euro cinsinden paranız olmaması halinde değiştirilebilir diğer döviz türlerinden, değerli kağıtlardan, rehin işlemlerinden ve uygun niteliklere sahip üçüncü bir kişinin kefaleti ile de temin edilebilir. 
 
-5 Imzanizla, "Teminat Makbuzu"nun bir kopyasini ve bu bilgi/talimat formunu aldiginizi onayliyorsunuz. Polis memuru, sagladiginiz teminatin alindigini imzasiyla teyit eder.`
+Alman ceza muhakemeleri usulü (StPO) § 132 durumunda güvenlik teminini kendi isteğiniz ile gerçekleştirmezseniz ve bir teslimat yetkilisini atamazsanız, size ait olan ve beraberinizde bulunan taşıt araçları veya diğer eşyalara el konulacaktır. Bununla ilgili mahkeme kararını dilediğiniz zaman yetkili idare mahkemesinden talep edebilirsiniz (Alman ceza muhakemeleri usulü (StPO) § 132 paragraf 3 ile bağlantılı olarak § 98 paragraf 2). Güvenlik tutarını No. 2 altında belirtilen hesaba havale ederek veya sonradan bir teslimat yetkilisi atayarak (bakınız No.4) yeniden el konulmuş olan eşyalarınızı tekrardan geri alma imkanına sahipsiniz. 
+
+Parasal tutar veya bahsi geçen eşyalar ilgili kuruma teslim edilir. Hukuki açıdan geçerli bir ceza durumunda sağlanan güvence para cezası/-parasal tazmin ve işlem masrafları ile mahsup edilir ve gerekli olduğu taktirde el konulan eşyalar satılır. Herhangi bir ceza tespit edilecek veya düşük tutarda bir para cezası/-parasal tazmin belirlenecek olursa geriye kalan meblağ ve el konulan eşyalar tarafınıza iade edilir. 
+
+4 Alman ceza muhakemeleri usulü (StPO) § 153a uyarınca bilgilendirme: "Savcılığın Alman ceza muhakemeleri usulü (StPO) § 153a paragraf 1 ceza muhakemeleri usulüne uygun olarak sizin onayınızla tarafınızca devlet hazinesine sağlanmış olan güvence tutarının ödenmesi karşılığında dava açmaktan vazgeçebileceği hakkında bilgilendirildiniz. Ayrıca suçun bu aşamadan sonra artık işlenmiş bir suç olarak cezalandırılmayacağı, aksine, işlemin herhangi türden ek masraflar oluşmadan ve federal sicil kaydına herhangi bir kayıt yapılmadan tamamen durdurulacağı tarafınıza anlatıldı. Bunun dışında sanık olarak aksi taktirde aleyhinizde kamu davası açılabileceği hakkında bilgilendirildiğinizden, işlemin durdurulması ve tarafınızca parasal tazmin olarak sağlanmış olan güvencenin Alman ceza muhakemeleri usulü (StPO) § 153a paragraf 1) uyarınca alınacağını kabul ediyorsunuz". 
+
+Lütfen geriye kalan bir tutar olması halinde tarafınıza iadesinin yapılabilmesi için kendinize ait veya bir başkasına ait banka bilgilerini belirtin. 
+
+5 İmzanız ile "Güvence sağlanması hakkında tutanak" dokümanının ve bu öneri ve bilgilendirme dokümanının bir suretini teslim aldığınızı onaylamış olursunuz. Polis memuru imzası ile tarafınızca sağlanmış olan güvenceyi teslim aldığını teyit etmektedir.`
   },
   sl: { 
-    security_deposit: `1 Navedba vaših osebnih podatkov kot obdolženca/prizadete osebe.
+    security_deposit: ` Navodila/pouk k zapisniku o plačilu varščine:
 
-2 Navedba kaznivega dejanja/prekrška, ki se vam ocita, organa, pristojnega za varšcino, ter njegovih bancnih podatkov in referencne številke.
+1 Navedba vaših osebnih podatkov kot obdolženca/ke/zadevne osebe. 
 
-3 Ker na obmocju veljavnosti zadevnega zakona nimate stalnega prebivališca ali bivališca
-– lahko za preprecitev aretacije (127.a clen Zakona o kazenskem postopku [StPO])
-– morate za zavarovanje kazenskega/prekrškovnega postopka (132. clen StPO), 46. clen Zakona o prekrških (OWiG)
-zagotoviti varšcino za pricakovano denarno kazen/globo ter za stroške postopka. Ce ne razpolagate z evri, se varšcina lahko položi v drugi zamenljivi valuti, v vrednostnih papirjih, z zastavo ali z garancijo ustreznih tretjih oseb.
+2 Navedba kaznivega dejanja/prekrška, ki vam je očitan/o, pristojnega organa za plačilo varščine ter njegove bančne zveze in blagajniške oznake. 
 
-Ce v primeru 132. clena StPO varšcine ne položite prostovoljno in ne dolocite pooblašcenca za vrocanje, se vam zasežejo prevozna sredstva ali drugi predmeti, ki jih imate pri sebi in so vaša last. Zoper to lahko kadar koli zahtevate sodno odlocbo pri pristojnem okrajnem sodišcu (tretji odstavek 132. clena v povezavi z drugim odstavkom 98. clena StPO). Zasežene predmete imate možnost odkupiti z nakazilom varšcine na racun, naveden pod tocko 2, in po potrebi z naknadnim imenovanjem pooblašcenca za vrocanje (glej tocko 4).
+3 Ker v okviru področja uporabe zadevnega zakona nimate stalnega prebivališča ali bivališča
 
-Denarni znesek ali predmeti se izrocijo pristojnemu organu. V primeru pravnomocne kazni se varšcina pobota z denarno kaznijo/globo in stroški postopka, morebitni zaseženi predmeti pa se unovcijo. Ce denarna kazen/globa ni dolocena ali je dolocena v nižjem znesku, se vam preostali znesek ali predmet vrne.
+– lahko v izogib prijetju (člen 127a Zakona o kazenskem postopku [StPO])
 
-4 Pouk v skladu s 153.a clenom StPO:
-"Pouceni ste bili, da lahko državno tožilstvo z vašim soglasjem v skladu s prvim odstavkom 153.a clena Zakona o kazenskem postopku (StPO) opusti vložitev obtožnice v zameno za placilo globe v višini varšcine, ki ste jo položili v korist državne blagajne. Sporoceno vam je bilo tudi, da se dejanje nato ne bo vec kaznovalo kot prekršek, temvec se bo postopek dokoncno ustavil brez dodatnih stroškov in brez vpisa v zvezni centralni kazenski register.
-Kot obdolženec, ki je bil dodatno poucen, da bi se v nasprotnem primeru proti vam lahko vložila javna obtožba, soglašate z ustavitvijo postopka in z varšcino, ki ste jo položili kot globo v skladu s prvim odstavkom 153.a clena StPO."
+– morate za zagotovitev kazenskega postopka/postopka izreka globe (člen 132 Zakona o kazenskem postopku [StPO]), člen 46 Zakona o prekrških (OWiG) 
 
-Prosimo, da navedete svoje/druge bancne podatke za primer, ce vam bo treba vrniti preostali znesek.
+plačati varščino za pričakovano denarno kazen/globo in za stroške postopka. Če nimate na voljo evrov, lahko varščino položite v drugi konvertibilni valuti, vrednostnih papirjih, z zastavitvijo ali s poroštvom ustrezne tretje osebe. 
 
-5 S svojim podpisom potrjujete, da ste prejeli izvod "Zapisnika o položitvi varšcine" in tega informativnega/poucnega lista. Policist s svojim podpisom potrjuje prejem varšcine, ki ste jo položili.`
+Če v skladu s členom 132 Zakona o kazenskem postopku (StPO) ne položite varščine prostovoljno in ne imenujete pooblaščenke(ca/ke) za vročitve, se vam zasežejo prevozna sredstva in drugi predmeti, ki jih imate pri sebi in ki vam pripadajo. V zvezi s tem lahko kadarkoli zaprosite za sodniški sklep pri pristojnem okrožnem sodišču (3. odst., 132. čl. v zvezi z 2. odst. 98. čl. Zakona o kazenskem postopku (StPO). Imate možnost, da z nakazilom varščine na račun, naveden pod točko 2, in morebiti z naknadnim imenovanjem pooblaščenca/ke za vročitve (glejte točko 4) ponovno odkupite zasežene predmete. 
+
+Znesek oziroma predmeti se izročijo pristojnemu organu. V primeru pravnomočnega pregona se varščina obračuna z denarno kaznijo/globo in stroški postopka, zaseženi predmeti pa se unovčijo, če je treba. Če se denarna kazen/globa ne določi ali se določi nižja denarna kazen/globa, se vam preostali znesek ali stvar vrne. 
+
+4 Pouk v skladu s členom 153a Zakona o kazenskem postopku (StPO): "Poučeni ste bili, da lahko državno tožilstvo z vašim soglasjem v skladu s 1. odst. 153a čl. Zakona o kazenskem postopku (StPO) v primeru plačila globe v višini varščine, ki ste jo zbrali, v korist državne blagajne opusti tožbo. Razkrito vam je bilo tudi, da se dejanje v tem primeru ne kaznuje več kot prestopek, temveč se postopek ustavi, ne da bi pri tem nastali dodatni stroški in brez vpisa v osrednji zvezni kazenski register. 
+Kot obdolženec/ka, ki je bil/a poleg tega tudi poučen/a, da je lahko v nasprotnem primeru proti njemu/njej vložena uradna tožba, se strinjate z ustavitvijo postopka in varščino, ki ste jo plačali kot globo, v skladu s 1. odst. 153a čl. Zakona o kazenskem postopku (StPO)." 
+
+Navedite svojo/drugo bančno zvezo, če vam bo treba vrniti preostali znesek. 
+
+5 S svojim podpisom potrjujete, da ste prejeli kopijo "zapisnika o varščini" in ta list z navodili/poukom. Policist/ka s svojim podpisom potrjuje, da je od vas prejel/a položeno varščino`
   },
   hu: { 
-    security_deposit: `1 Személyes adatainak megadása vádlottként/érintett személyként.
+    security_deposit: ` Útmutatás/kioktatás a biztosítéknyújtási jegyzőkönyvhöz
 
-2 Annak a buncselekménynek/szabálysértésnek a megadása, amellyel vádolják, a biztosítékért felelos hatóság, valamint annak banki adatai és hivatkozási száma.
+ 1 Az Ön - mint gyanúsított/érintett - személyi adatai. 
 
-3 Mivel Önnek nincs állandó lakóhelye vagy tartózkodási helye a vonatkozó törvény hatálya alá tartozó területen
-– letartóztatása elkerülése érdekében (a büntetoeljárási törvény [StPO] 127a. §-a)
-– a bünteto-/szabálysértési eljárás biztosítása érdekében (StPO 132. §), a szabálysértési törvény (OWiG) 46. §-a alapján
-biztosítékot kell nyújtania a várható pénzbírságra/büntetésre, valamint az eljárás költségeire. Ha nem rendelkezik euróval, a biztosíték nyújtható más konvertibilis valutában, értékpapírokban, zálogjogosultként vagy megfelelo harmadik felek kezességvállalásával.
+2 Az Önnek felrótt bűncselekmény/szabálysértés, a biztosítéknyújtásban illetékes hatóság, valamint e hatóság bankkapcsolatának és pénztári jelének megadása. 
 
-Ha az StPO 132. §-a esetén nem nyújtja önként a biztosítékot, és nem nevez meg kézbesítési meghatalmazottat, a magánál tartott és az Ön tulajdonát képezo szállítóeszközöket vagy egyéb tárgyakat lefoglalják. Erre vonatkozóan bármikor kérhet bírói határozatot az illetékes kerületi bíróságtól (StPO 132. § (3) bekezdés összefüggésben a 98. § (2) bekezdéssel). Lehetosége van a lefoglalt tárgyak kiváltására a biztosíték 2. pontban megadott számlára történo átutalásával és adott esetben egy kézbesítési meghatalmazott utólagos megnevezésével (lásd a 4. pontot).
+3 Mivel Önnek nincs állandó lakása vagy tartózkodási helye a szóban forgó törvény hatályossági területén,
 
-A pénzösszeget vagy a tárgyakat átadják az illetékes hatóságnak. Jogeros büntetés esetén a biztosítékot beszámítják a pénzbírságba/büntetésbe és az eljárás költségeibe, az esetlegesen lefoglalt tárgyakat pedig értékesítik. Ha nem szabnak ki pénzbírságot/büntetést, vagy alacsonyabb összegu pénzbírságot/büntetést szabnak ki, a fennmaradó összeget vagy a tárgyat visszaszolgáltatják Önnek.
+– őrizetbe vételének elhárítása céljából (Büntető Eljárásjog [StPO] 127a. §) Ön biztosítékot adhat, ill.
 
-4 Tájékoztatás az StPO 153a. §-a alapján:
-"Tájékoztatták, hogy az ügyészség az Ön hozzájárulásával, a büntetoeljárási törvény (StPO) 153a. § (1) bekezdése értelmében eltekinthet a vádemeléstol, cserébe az Ön által az államkincstár javára nyújtott biztosíték összegének megfelelo bírság megfizetéséért. Azt is közölték Önnel, hogy a cselekményt ezt követoen már nem büntetik szabálysértésként, hanem az eljárást véglegesen megszüntetik anélkül, hogy további költségek merülnének fel, és anélkül, hogy bejegyzés történne a Szövetségi Központi Nyilvántartásba.
-Vádlottként, akit arról is tájékoztattak, hogy ellenkezo esetben közvád emelheto Ön ellen, Ön hozzájárul az eljárás megszüntetéséhez és az Ön által nyújtott biztosítéknak az StPO 153a. § (1) bekezdése szerinti bírságként történo felhasználásához."
+– a büntetőeljárás/szabálysértési eljárás biztosítása végett (StPO 132. §) és a Szabálysértésekről szóló törvény (OWiG) 46. § értemében Önnek biztosítékot kell adnia
 
-Kérjük, adja meg saját/egyéb banki adatait arra az esetre, ha a fennmaradó összeget vissza kellene téríteni Önnek.
+a várható pénzbüntetésre/pénzbírságra, valamint az eljárás költségeire. Ha nem rendelkezik euróval, más konvertibilis valutában, értékpapírokban, elzálogosítás vagy megbízható harmadik fél kezessége révén is teljesítheti a biztosítéknyújtást. 
 
-5 Aláírásával megerosíti, hogy megkapta a "Biztosíték nyújtásáról szóló jegyzokönyv" másolatát és ezt a tájékoztató/oktató lapot. A rendortiszt aláírásával igazolja az Ön által nyújtott biztosíték átvételét.`
+Ha Ön a Büntető Eljárásjog (StPO) 132. § értelmében önként nem teljesíti a biztosítéknyújtást, és nem nevez meg egy kézbesítési meghatalmazottat, zár alá veszik azokat a szállítóeszközöket vagy más tárgyakat, amelyeket magával hoz és amelyek az Ön tulajdonát képezik. Erre vonatkozólag bármikor kérelmezheti a bírói határozatot az illetékes Városi Bíróságon. (StPO 132. § 3. bekezdés és ehhez kapcsolódóan a 98. § 2. bekezdés). Önnek lehetősége van arra, hogy a zár alá vett tárgyakat a biztosíték 2. pontban megadott számlára történő átutalásával és adott esetben egy kézbesítési meghatalmazottat megnevezve (lásd a 4. pontot!) kiváltsa. 
+
+A pénzösszeget ill. a tárgyakat leadják az illetékes hatóságnak. Jogerős büntetés esetén a biztosítékadást el lehet számolni a pénzbüntetéssel/pénzbírsággal és az eljárás költségeivel, valamint adott esetben értékesíteni lehet a lefoglalt holmikat. Ha nem szabnak ki, vagy csekélyebb mértékű pénzbüntetést/pénzbírságot szabnak ki, akkor a fennmaradó összeget vagy a holmit visszaadják Önnek. 
+
+4 Kioktatás a Büntető Eljárásjog (StPO) 153a. § szerint: „Kioktatásban részesültem arról, hogy a büntető eljárásjog 153a. § 1. bekezdése értelmében az ügyészség hozzájárulásommal eltekinthet a vádemeléstől, mégpedig az általam szolgáltatott biztosíték nagyságával egyenlő összeg államkassza javára történő befizetése ellenében. Ezen kívül közölték velem, hogy a cselekményt ezután már nem büntetik bűncselekményként, hanem véglegesen beszüntetik az eljárást, anélkül, hogy további járulékos költségek merülnének fel és bejegyeznék a szövetségi központi bűnügyi nyilvántartásba. 
+Gyanúsítotti minőségemben, akit ezen kívül arról is kioktattak, hogy ellenkező esetben közvádat emelhetnek ellenem, egyetértek azzal, hogy az eljárást beszüntetik és az StPO 153a. § 1. bekezdés szerint pénzbírságként befizetem az általam szolgáltatott biztosítékot." 
+
+Ha szükséges, adja meg az Ön bankkapcsolatát vagy egy más bankkapcsolatot arra az esetre, ha a fennmaradó összeget vissza kell adni Önnek. 
+
+5 Ön aláírásával igazolja, hogy megkapta a "Biztosítéknyújtási jegyzőkönyv" és ezen útmutató/kioktatás másolatát. A rendőrtisztviselő aláírással igazolja az Ön által nyújtott biztosíték átvételét.`
   },
   
   uk: { 
-    security_deposit: `1 ?????????? ????? ???????????? ????? ?? ??????????????/???????????.
+    security_deposit: ` Bказівки / Роз’яснення до протоколу про внесення застави:
 
-2 ?????????? ????????????? ??????????????/????????????????? ??????????????, ? ????? ??? ????????????, ??????, ??????????????? ?? ???????? ???????, ? ????? ???? ??????????? ?????????? ? ?????? ?????????.
+1 Зазначення особистих даних обвинуваченого / особи, якої це стосується. 
 
-3 ???????? ? ??? ????? ?????????? ????? ?????????? ??? ??????????? ? ???? ??? ???????????? ??????
-– ?? ?????? ??? ????????? ?????????? (§ 127a ???????????-?????????????? ??????? [StPO])
-– ?? ??????? ??? ???????????? ????????????? ???????????/??????????? ? ?????? ??? ??????????????? ?????????????? (§ 132 StPO), § 46 ?????? ??? ??????????????? ?????????????? (OWiG)
-?????? ??????? ?? ?????????? ?????/????, ? ????? ?? ?????? ???????. ???? ? ??? ????? ????, ??????? ???? ???? ??????? ? ????? ????????????? ??????, ? ?????? ???????, ?????? ??????? ????? ??? ?????? ??????????? ?????? ????.
+2 Зазначення злочинного діяння / адміністративного правопорушення, у вчиненні якого Ви обвинувачуєтеся, та компетентного органу для застави, а також його банківські реквізити та касовий номер. 
 
-???? ? ??????? § 132 StPO ?? ?? ??????? ??????? ??????????? ? ?? ?????????? ?????????????? ?? ????????? ??????????, ??????????? ?????? ??? ???? ????????, ??? ?? ?????? ? ????? ? ??? ??? ????????, ?????? ????????????. ?? ?????? ? ????-???? ??? ?????? ????? ??? ????????? ???????? ??????? ? ????? ??????? ?? ????????????? ??????????? ???? (§ 132 ???. 3 ? ????????? ? § 98 ???. 2 StPO). ? ??? ? ?????????? ???????? ???????????? ????????, ????????????? ??????? ?? ???????, ???????? ? ?. 2, ?, ?? ????????????, ????????? ??????????? ?????????????? ?? ????????? ?????????? (???. ?. 4).
+3 Так як у Вас немає постійного місця проживання чи перебування на території дійсності відповідного закону,
 
-??????? ???? ??? ???????? ??????????? ????????????? ??????. ? ???? ???????? ?????????? ???????? ???? ??????? ????????????? ? ??????? ??????/???? ?? ??????? ??????, ? ???????????? ????????, ?? ?? ?????????, ????????????. ???? ?????/???? ?? ????????????? ??? ????????????? ? ??????? ???????, ????, ?? ??????????, ??? ??????? ???????????? ???.
+– то Ви можете з метою уникнення ув’язнення (§ 127a Кримінально-процесуального кодексу (StPO)
 
-4 ???'??????? ?????? ? § 153a StPO:
-"??? ???? ???'??????, ?? ??????????? ?? ????? ?????? ?????????? ?? § 153a ???. 1 ???????????-?????????????? ??????? (StPO) ???? ??????????? ??? ????????? ???????????? ? ????? ?? ??????? ?????? ? ??????? ???????? ???? ??????? ?? ??????? ????????? ?????????. ???? ????, ??? ???? ???????????, ?? ?????? ? ?????? ??????? ?????? ?? ???? ???????? ?? ??????????????, ? ?????? ???? ????????? ??????? ??? ?????????? ?????? ? ???????? ?????? ?? ???????????? ???????????? ??????? ??????????.
-?? ?????????????, ????? ????????? ???? ???'??????, ?? ? ?????? ??????? ????? ????? ???? ???? ???????? ???????? ????????????, ?? ?????? ?? ????????? ?????? ?? ????????? ???????? ???? ??????? ?? ?????? ?????? ? § 153a ???. 1 StPO."
+– то Ви повинні для забезпечення провадження кримінальної / адміністративної справи (§ 132 КПК (StPO)), § 46 Кодексу про адміністративні порушення (OWiG))
 
-???? ?????, ??????? ????/???? ?????????? ????????? ?? ???????, ???? ????, ?? ??????????, ??? ???? ??? ?????????.
+надати заставу для оплати очікуваного грошового штрафу / стягнення та пов’язаних із процесом коштів. Якщо у Вас немає євро, то заставу можна внести в іншій конвертованій валюті, у вигляді цінних паперів, запоруки або поручительства відповідних третіх осіб.
 
-5 ????? ???????? ?? ????????????? ????????? ????? "????????? ??? ???????? ???????" ?? ????? ??????????????/?????????????? ??????. ???????????? ??????? ??????????? ????????? ???????? ???? ??????? ????? ????????.`
-  },
+Якщо у випадку § 132 КПК (StPO) Ви не внесете заставу добровільно та не призначите уповноваженого до отримання документів, то у Вас вилучаються транспортні засоби або інші належні Вам предмети, які Ви маєте при собі. У зв’язку із цим Ви можете у будь-який час запросити прийняття рішення компетентним дільничним судом у цьому питанні (§ 132, абз. 3 у сукупності із § 98, абз. 2 КПК (StPO)). У Вас є можливість отримати назад вилучені предмети, перерахувавши заставу на зазначений у п. 2 рахунок та за певних обставин призначивши додатково уповноваженого до отримання документів (див. п. 4).
+
+Грошова сума чи предмети передаються компетентному органу. У випадку чинного притягнення до відповідальності застава використовується для покриття грошового штрафу / стягнення та пов’язаних із процесом коштів, а за певних обставин вилучені речі реалізуються з метою використання їх вартості. В разі призначення меншого грошового штрафу / стягнення або непризначення взагалі, решта суми або річ повертається Вам назад.
+
+4 Роз’яснення згідно § 153a КПК (StPO): 
+«Вам було вказано на те, що прокуратура за Вашою згодою згідно § 153a, абз. 1 Кримінально-процесуального кодексу (StPO) може відмовитися від висування обвинувачення, якщо на користь державної каси буде сплачене стягнення у розмірі внесеної Вами застави. Крім того, Вам було оголошено, що в такому випадку діяння не переслідуватиметься далі як порушення закону, а провадження у справі буде остаточно припинене без виникнення додаткових коштів та без внесення запису до Федерального центрального реєстру правопорушень.
+Вам як обвинуваченому було вказано на те, що в протилежному випадку проти Вас буде висунуто публічне обвинувачення, і Ви заявили свою згоду на припинення провадження у справі та використання внесеної Вами застави для покриття стягнення згідно § 153a, абз. 1 КПК (StPO).»
+
+Зазначте (свої) банківські реквізити, якщо Ви бажаєте отримати назад можливий залишок суми.
+
+5 Своїм підписом Ви підтверджуєте отримання копії «Протоколу про внесення застави» та цієї Пам’ятки із вказівками / роз’ясненнями. Службовець поліції підтверджує своїм підписом отримання внесеної Вами застави.
+},
   hi: { 
-    security_deposit: `1 ?????/???????? ??????? ?? ??? ??? ???? ????????? ????? ?? ???????
+    security_deposit: ` जमानत भुगतान अभभलेख प्रकरि्ा के संबंि में जानकारी/ भनददेश:
 
-2 ??? ???????/????????? ????? ?? ?? ?? ???? ??, ??????? ??? ?? ??? ????????? ?????????, ??? ?? ???? ???? ????? ?? ???? ?????? ?? ???????
+1 आपको अपराि के भलए दोरारोभपत पक्ष/ प्रभाभवत पक्ष के रूप में भववरण देना होगा|
 
-3 ????? ???? ??? ??????? ????? ?? ????? ??? ??? ??????? ????? ?? ?????? ???? ??
-- ?? ???? ????????? ?? ???? ?? ??? (??????? ????????? ?????? ?? ???? 127a [StPO])
-- ???? ???????/???????? ????????? (???? 132 StPO), ????????? ????? ??????? ?? ???? 46 (OWiG) ?? ???????? ???? ?? ???
-???????? ????????/??? ?? ????????? ?? ???? ?? ??? ?? ??????? ?????? ???? ?????? ??? ???? ??? ???? ???? ???, ?? ??????? ???? ???? ?????????? ?????? ???, ???????????? ???, ????? ???? ?? ??????? ????? ???? ?? ?????? ?????? ?????? ?? ?? ???? ???
+2 आपको, आप पर लगे आपराभिक/ गैर-आपराभिक अपराि के आरोप, जमानत भुगतान के उत्तरदा्ी अभिकारी, और उनके बैंक खाते और लेनदेन संख्ा के भववरण देने होंगे|
 
-??? ???? 132 StPO ?? ????? ???, ?? ???????? ?? ??????? ??? ?????? ???? ???? ??? ?? ?????????? ?? ????? ?? ??? ???? ?????? ????????? ?? ??? ???? ???? ???, ?? ???? ?????? ?? ??? ?? ??? ?? ???? ????????? ???? ?????? ?? ???? ?? ???? ??????? ?? ???? ?? ???? ?????? ?? ???? ??? ???? ?? ??? ????? ??????? ???????? ?? ??????? ?????? ?? ?????? ?? ???? ??? (???? 132(3) ?? ??? ???? ???? 98(2) StPO)? ???? ??? ???? 2 ?? ??? ????????? ???? ??? ??????? ??? ???? ??????????? ???? ?? ??? ???? ??, ?? ?????????? ?? ????? ?? ??? ??? ??? ???? ?????? ????????? ?? ??? ???? ???? ?? ?? ??????? ?? ????? ????? ?? ?????? ?? (????? ???? 4)?
+3 संबंभित कानून के प्रसार के अंतग्षत आपके पास कोई भनभचित आवास ्ा भनवास नहीं है, इसभलए:
 
-?????? ?? ??????? ????? ?????????? ?? ???? ?? ??????? ?????? ??? ?? ????????? ??? ?? ????? ???, ??????? ??? ?? ????????/??? ?? ????????? ?? ???? ?? ??? ???? ?????, ?? ???? ?? ???? ?? ?? ????? ?? ????? ???? ?????? ??? ??? ????????/??? ????????? ???? ???? ??? ?? ?? ?? ???? ?? ????????/??? ????????? ???? ??? ??, ?? ??? ???? ?? ????? ???? ???? ?? ?? ??????
+- आप कारावास ्ालने के भलए जमानत का भुगतान कर सकते/ सकती हैं (आपराभिक का््षवाही की जम्षन संभहता (StPO) की िारा 127a)
 
-4 ???? 153a StPO ?? ?????? ???????:
-"???? ????? ???? ??? ?? ?? ??? ??????? ?? ????????, ???? ????? ??, ??????? ????????? ?????? (StPO) ?? ???? 153a(1) ?? ??????, ????? ?? ????? ?? ???? ??? ???? ?????? ?????? ?? ?? ??????? ??? ?? ???? ??? ???????? ??? ???? ?? ???? ??? ???? ???? ???? ?? ?? ???? ??? ???? ?? ?? ????? ???? ??? ?? ?? ?? ?? ????? ?? ????? ?? ??? ??? ????? ???? ???? ?????, ????? ???? ??? ???????? ???? ???? ?? ????? ???????? ??????? ??? ????????? ??? ???? ????????? ????? ??? ?? ??? ?? ?? ??????
-?? ????? ??????? ?? ??? ??? ???? ?? ?? ????? ???? ??? ?? ?? ?????? ???? ????? ????????? ???? ???? ??? ?? ???? ???, ?? ????????? ?? ??? ???? ?? ???? 153a(1) StPO ?? ?????? ???? ?????? ???????? ?? ??? ??? ?????? ?? ?? ??????? ??? ?? ???? ????"
+- आपको आपराभिक/ संभक्षप्त का््षवाभह्ों के भलए जाभमन प्रदान करने हेतु जमानत का भुगतान करना होगा (आपराभिक का््षवाही की जम्षन संभहता (StPO) की िारा 132, जम्षन प्रशासकी् अपराि अभिभन्म (OWiG) की िारा 46)
 
-????? ????/???? ???? ????? ?????? ???? ??? ??? ??? ???? ???? ???? ???? ???
+प्रत्ाभशत जुमा्षना/ दंड के संबंि में और का््षवाभह्ों की लागत के संबंि में| ्कद आप ्ूरो में भुगतान नहीं कर सकते/ सकती हैं, तो आप पररवत्षनी् मुद्ा, जाभमन, ्ा ककसी उभचत तृती् पक्ष द्ारा प्रदान की गई प्रभतभूभत ्ा गारं्ी के द्ारा भुगतान कर सकते/ सकती हैं|
 
-5 ???? ????????? ??, ?? ?????? ???? ??? ?? ???? "??????? ??? ?? ???????" ?? ?? ?????/??????? ????? ?? ?? ????? ??????? ??? ??? ????? ??????? ???? ????????? ?? ???? ?????? ?????? ?? ?? ??????? ?? ???????? ?? ?????? ???? ???`
-  },
+्कद आप आपराभिक का््षवाही की जम्षन संभहता (StPO) की िारा 132 के अंतग्षत जमानत का भुगतान सवेचछा से नहीं करते/ करती हैं और ्कद आप कोई अभिकृत प्रापक का नाम नहीं देते/ देती हैं, तो आपके पररवहन का सािन ्ा आपके पास की अन् वसतुएं जबत कर ली जाएंगी| आप कभी भी ्ह भनवेदन कर सकते/सकती हैं कक भजला न्ा्ाल् इस संबंि में वैिाभनक भनण्ष् प्रदान करें (आपराभिक का््षवाही की जम्षन संभहता (StPO) की िारा 98 के अनुचछेद 2 के साथ िारा 132 के अनुचछेद 3)| आप खंड 2 में उललेभखत खाते में जमानत का भुगतान करके और, लागू होने पर अभिकृत प्रापक का नाम प्रदान करके जबत की गई वसतुओं को छुड़ा सकते/ सकती हैं (खंड 4 देखें)|
+
+िन और/्ा वसतुओं को उभचत अभिकारी के सुपुद्ष कर कद्ा जाएगा| क़ानूनी रूप से बाध् जुमा्षने की भसथभत में, जमानत को दंड/ जुमा्षने के अनुसार और का््षवाभह्ों की लागतों के अनुसार, और, लागू होने पर, जबत की गई वसतुओं के अनुसार भनिा्षररत कक्ा जाएगा| कोई दंड/ जुमा्षना ना लगाए जाने पर, ्ा कम दंड लगाए जाने पर, शेर राशी ्ा सामरिी आपको लौ्ा दी जाएगी|
+
+4 आपराभिक का््षवाही की जम्षन संभहता (StPO) की िारा 153a के अंतग्षत भनददेश: “आपको ्ह बता्ा ग्ा है कक आपकी सहमती होने पर और दंड के रूप में जमानत की प्र्ोज् राशी का भुगतान साव्षजभनक भनभि में करने पर सरकारी वकील का भवभाग आपराभिक का््षवाही की जम्षन संभहता (StPO) की िारा 153a के अनुचछेद 1 के अंतग्षत आपको अभभ्ोग से बचा सकता है| आपको ्ह भी बता्ा ग्ा है कक ततपचिात का््षवाही को दंडनी् अपराि नहीं माना जाएगा, लेककन ककसी अभतररक्त लागत के भबना और अपराि भसभधि के संघी् केनद्ी् रभजस्र में प्रभवभटि के भबना का््षवाभह्ों पर एक अंभतम रोक लगा दी जाएगी|
+
+आपको इस बात से अवगत कराए जाने पर कक अभभ्ुक्त के रूप में आप पर साव्षजभनक अभभ्ोग लगाए जा सकते हैं, आप आपराभिक का््षवाही की जम्षन संभहता (StPO) की िारा 153a के अनुचछेद 1 के अंतग्षत का््षवाभह्ों को रोकने और दंड के रूप में जमानत का भुगतान करने की सहमती प्रदान करते/करती हैं|”
+
+कृप्ा अपने बैंक खाते ्ा ककसी अन् बैंक खाते का भववरण दें, ताकक कोई भी शेर राशी आपको लौ्ाई जा सके |
+
+5 इस दसतावेज पर हसताक्षर करके आप “जमानत भुगतान अभभलेख” और इस जानकारी/ भनददेश पत्रक की प्रत प्राप्त होने की पुभटि करते/करती हैं| पुभलस अभिकारी आपके द्ारा जमानत का भुगतान प्राप्त होने की पुभटि सवरूप हसताक्षर करता है|
+ },
   bg: { 
-    security_deposit: `1 ????????? ?? ?????? ????? ????? ???? ????????/????????? ????.
+    security_deposit: ` Правно указание относно протокола за даване на обезпечителна гаранция:
 
-2 ????????? ?? ??????????????/????????????????? ?????????, ? ????? ??? ????????, ?? ??????, ????????? ?? ??????????, ????? ? ???????? ??????? ????? ? ?????????? ?????.
+1 Посочване на личните Ви данни като уличено/потърпевшо лице.
 
-3 ??? ???? ?????? ????????? ?????????????? ??? ??????????? ? ??????? ?? ?????????? ?????
-– ??????, ?? ?? ????????? ?????? ?? (??. 127a ?? ???????????-???????????? ?????? [StPO])
-– ??????, ?? ?? ?????????? ????????????? ????????????/?????????????? ?? ???????? ?? ????? (??. 132 StPO), ??. 46 ?? ?????? ?? ????????????????? ????????? (OWiG)
-?? ???????????? ???????? ?? ?????????? ?????/?????????, ????? ? ?? ?????????? ?? ??????????????. ??? ?? ??????????? ? ????, ?????????? ???? ?? ???? ???????????? ? ????? ????????????? ??????, ? ????? ?????, ???? ????? ??? ???? ????????????? ?? ????????? ????? ????.
+2 Данни за престъпението/адм. нарушение, в което сте обвинен, компетентната служба за обезпечителната гаранция, както и нейните банкови реквизити и касов знак.
 
-??? ? ?????? ?? ??. 132 StPO ?? ???????????? ?????????? ?????????? ? ?? ???????? ??????????? ???????????? ?? ????????, ????????????? ???????? ??? ????? ????, ????? ?????? ??? ???? ?? ? ????? ?? ???????????, ?? ????? ????????????. ?? ????? ????? ?????? ?? ???????? ??????? ??????? ?? ???? ?????? ?? ???????????? ??????? ??? (??. 132, ??. 3 ??? ?????? ? ??. 98, ??. 2 StPO). ????? ?????????? ?? ?????????? ?????????????? ????, ???? ????????? ?????? ?? ?????????? ?? ????????, ???????? ? ????? 2, ?, ??? ? ?????????, ???? ???????????? ???????? ??????????? ???????????? ?? ???????? (??. ????? 4).
+3 Тъй като нямате постоянно местожителство или пребиваване в полето на приложение на съответния закон,
 
-????????? ???? ??? ?????? ?? ????? ????????? ?? ???????????? ?????. ? ?????? ?? ?????? ? ???? ????????? ?????????? ?? ???? ??????????? ?? ???????/??????????? ? ?????????? ?? ??????????????, ? ?????????? ?????????????? ???? ?? ????? ?????????. ??? ?? ???? ?????????? ?????/????????? ??? ???? ?????????? ?????/????????? ? ??-????? ??????, ?????????? ???? ??? ????? ?? ?? ???? ????????????.
+3 Тъй като нямате постоянно местожителство или пребиваване в полето на приложение на съответния закон,– за да предотвратите Вашето задържане (§ 127а Наказателно-процесуален кодекс [НПК] (StPO))
 
-4 ?????????? ???????? ??. 153a StPO:
-"??????????? ???, ?? ?????????????, ? ???? ????????, ???????? ??. 153a, ??. 1 ?? ???????????-???????????? ?????? (StPO), ???? ?? ?? ???????? ?? ????????? ?? ????????? ? ?????? ?? ??????? ?? ????? ? ?????? ?? ?????????????? ?? ??? ???????? ? ????? ?? ?????????? ?????. ???? ???? ?? ? ????????, ?? ???????? ???? ???? ?? ?? ??????? ???? ?????????, ? ?????????????? ?? ???? ??????????? ?????????? ??? ???????????? ??????? ? ??? ???????? ??? ?????????? ????????? ????????.
-???? ????????, ????? ????? ???? ? ??? ??????????, ?? ? ???????? ?????? ????? ??? ????? ?? ????? ?????????? ???????? ?????????, ??? ?? ??????????? ? ?????????????? ?? ?????????????? ? ? ?????????????? ?? ??? ???????? ???? ????? ???????? ??. 153a, ??. 1 StPO."
+– за обезпечаване на наказателното/административното производство (§ 132 НПК (StPO), § 46 от Закона за административните нарушения (ЗААН) (OWiG)
 
-????, ???????? ??????/????? ??????? ????? ? ??????, ?? ???????? ???? ?????? ?? ?? ???? ????????????.
+във връзка с очакващата Ви парична глоба/финансова санкция, както и относно разноските по делото, Вие трябва да заплатите гаранция. Гаранцията може да бъде заплатена в друга конвертируема валута, ако не разполагате с евро, с ценни книжа, чрез учредяване на залог или посредством поръчителство на трети лица.
 
-5 ? ??????? ?? ?????????????, ?? ??? ???????? ????? ?? „???????? ?? ???????????? ?? ????????“ ? ???? ?????????????/???????????? ????. ???????????? ???????? ??????????? ? ??????? ?? ???????????? ?? ?????????????? ?? ??? ????????.`
+Ако в случаите на § 132 НПК (StPO) не заплатите доброволно обезпечителната гаранция и не посочите упълномощено лице респ. надлежен съдебен служител, донесените от Вас средства или други предмети ще бъдат конфискувани. Вие можете да заявите по всяко време получаването на съдебното решение от компетентния Районен съд (§ 132 ал. 3 във вр. с § 98 ал. 2 НПК (StPO)). Вие имате възможност да върнете конфискуваните предмети като преведете обезпечителната гаранция на посочената в точка № 2 банкова сметка и евентуално като посочите допълнително надлежен съдебен служител.
+
+Сумата респ. предметите ще бъдат върнати на компетентната служба. В случай на постановено наказание обезпечителната гаранция ще се пресметне с паричната глоба/финансовата санкция и разноските по делото и евентуално конфискуваните вещи ще бъдат оползотворени. Ако не се определи парична глоба или нейният размер е незначителен, то останалата част от сумата или вещите ще Ви бъдат върнати.
+
+4 Правно указание съгласно № 153а НПК (StPO): „Беше Ви обяснено, че с Ваше съгласие съгласно § 153a ал. 1 от Накзателно-процесуалния кодекс (НПК) (StPO) прокуратурата може да се откаже от предявяване на обвинителен акт срещу заплащане на глоба в размер на внесената от Вас в полза на държания бюджет обезпечителна гаранция. Освен това Ви беше обяснено, че в такъв случай провинението повече не може да бъде наказвано и че делото окончателно може да бъде прекратено при положение, че не възникнат допълнителни разноски и се направи отметка във Централния федерален регистър.
+Освен това като уличено лице, което бе информирано, че в противен случай срещу него може да бъде повдигната публична жалба, сте съгласни с преустановяване на производството и заплатената от Вас обезпечителна гаранция като глоба съгласно § 153а ал. 1 НПК (StPO)."
+
+В случай, че трябва да Ви бъде върната останалата сума, Ви умоляваме да посочите евентуално Вашата/ друга банкова сметка.
+
+5 С подписа си потвърждавате, че сте получили копие от „Протокола за даване на гаранция" и това правно указание. Полицейският/ата служител/ка потвърждава с подписа си, че е получил/а платената от Вас гаранция.`
   },
   cs: { 
-    security_deposit: `1 Uvedení vašich osobních údaju jako obvineného/dotcené osoby.
+    security_deposit: ` Pokyny/poučení k Zápisu o složení jistoty:
 
-2 Uvedení trestného cinu/správního deliktu, ze kterého jste obvineni, orgánu odpovedného za kauci, jakož i jeho bankovních údaju a referencního císla.
+1 Uvedení vašich osobních údajů jako obviněné osoby/dotčené osoby.
 
-3 Vzhledem k tomu, že nemáte trvalé bydlište nebo pobyt v oblasti pusobnosti príslušného zákona
-– mužete, abyste se vyhnuli zatcení (§ 127a trestního rádu [StPO])
-– musíte, k zajištení trestního rízení / rízení o pokute (§ 132 StPO), § 46 zákona o správních deliktech (OWiG)
-poskytnout kauci na ocekávanou pokutu/trest a na náklady rízení. Pokud nemáte eura, kauce muže být poskytnuta v jiné smenitelné mene, v cenných papírech, zástavou nebo rucením vhodných tretích stran.
+2 Udání trestného činu/přestupku, ze kterého jste obviňováni, údaje o úřadu příslušném k vaší peněžité záruce, o jeho bankovním spojení a o značce pokladny.
 
-Pokud v prípade § 132 StPO kauci dobrovolne neposkytnete a neurcíte zmocnence pro dorucování, dopravní prostredky nebo jiné predmety, které máte u sebe a které vám patrí, budou zabaveny. V této veci mužete kdykoli požádat o soudní rozhodnutí príslušný okresní soud (§ 132 odst. 3 ve spojení s § 98 odst. 2 StPO). Máte možnost zabavené predmety uvolnit prevodem kauce na úcet uvedený v bode 2 a prípadne dodatecným urcením zmocnence pro dorucování (viz bod 4).
+3 Vzhledem k tomu, že podle příslušného platného zákona nemáte žádné trvalé bydliště nebo místo pobytu
 
-Penežní cástka nebo predmety budou predány príslušnému orgánu. V prípade pravomocného trestu bude kauce zapoctena proti pokute/trestu a nákladum rízení a prípadné zabavené veci budou zpeneženy. Pokud není stanovena žádná pokuta/trest nebo je stanovena pokuta/trest v nižší cástce, zbývající cástka nebo vec vám bude vrácena.
+– můžete k odvrácení vašeho zadržení (§ 127a trestního řádu [StPO])
 
-4 Poucení podle § 153a StPO:
-"Byl jste poucen o tom, že státní zastupitelství s vaším souhlasem podle § 153a odst. 1 trestního rádu (StPO) muže upustit od vznesení obžaloby výmenou za zaplacení pokuty ve výši vámi poskytnuté kauce ve prospech státní pokladny. Rovnež vám bylo sdeleno, že cin pak již nebude trestán jako prestupek, ale rízení bude s konecnou platností zastaveno bez vzniku dodatecných nákladu a bez provedení záznamu ve Spolkovém centrálním rejstríku.
-Jako obvinený, který byl dále poucen o tom, že by jinak proti vám mohla být vznesena verejná obžaloba, souhlasíte se zastavením rízení a s vámi poskytnutou kaucí jako pokutou podle § 153a odst. 1 StPO."
+– musíte k zajištění trestního řízení/řízení o udělení peněžitého trestu (§ 132 trestního řádu (StPO)), § 46 zákona o přestupcích (OWiG)
 
-Uvedte prosím své/jiné bankovní spojení pro prípad, že by vám musela být vrácena zbývající cástka.
+složit peněžitou záruku na očekávanou pokutu/peněžitý trest a na náklady řízení. Peněžitou záruku můžete složit, pokud nedisponujete měnou euro, v jiné volně směnitelné měně, v cenných papírech, určením zástavy nebo zárukou vhodných třetích osob.
 
-5 Svým podpisem potvrzujete, že jste obdrželi kopii „Protokolu o složení kauce“ a tohoto informacního/poucného listu. Policista potvrzuje svým podpisem prijetí vámi poskytnuté kauce.`
+Pokud v případě § 132 trestního řádu (StPO) nesložíte peněžitou záruku dobrovolně a neurčíte osobu zplnomocněnou k přijímání písemností, budou vám zabaveny dopravní prostředky nebo jiné předměty, které máte s sebou a které vám patří. V této věci můžete kdykoliv žádat příslušný obvodní soud o soudní rozhodnutí (§ 132 odst. 3 ve spojení s § 98 odst. 2 trestního řádu (StPO)). Zabavené věci můžete opět uvolnit převodem peněžité jistoty na účet uvedený pod bodem 2 a příp. dodatečným jmenováním osoby zplnomocněné k přebírání písemností (viz bod 4).
+
+Peněžitá částka nebo předměty jsou odevzdány příslušnému úřadu. V případě pravomocného trestu bude peněžitá jistota zaúčtována k peněžité pokutě/peněžitému trestu a k nákladům řízení, případně zabavené předměty budou zpeněženy. Pokud nebude stanovena žádná pokuta/peněžitý trest nebo budou stanoveny v nižší výši, bude vám zbývající částka nebo věc vrácena.
+
+4 Poučení podle § 153a trestního řádu (StPO): „Byl(-a) jste poučen(-a) o tom, že státní zastupitelství s vaším souhlasem podle § 153a odst. 1 trestního řádu (StPO) může upustit od vznesení obžaloby oproti platbě peněžité pokuty ve výši vámi zaplacené peněžité záruky ve prospěch státní pokladny. Kromě toho vám bylo sděleno, že čin pak již není potrestán jako přečin, ale řízení je zastaveno, aniž by vznikly další náklady a není proveden zápis do Centrálního spolkového rejstříku.
+Jako obviněný(-á) který(-á) byl(-a) poučen(-a) navíc o tom, že v opačném případě může být proti vám vznesena veřejná žaloba, souhlasíte se zastavením řízení a s uložením peněžité záruky jako peněžitého trestu podle § 153a odst. 1 trestního řádu (StPO).“
+
+Pro případ, že by vám musela být zaslána zpět zbývající částka, uveďte vaše/jiné bankovní spojení.
+
+5 Svým podpisem potvrzujete, že jste obdržel(-a) kopii „Zápisu o složení jistoty“ a tento dokument s pokyny a poučením. Policejní úředník potvrzuje podpisem příjem vámi složené peněžité záruky.`
   },
   
   lt: { 
-    security_deposit: `1 Jusu, kaip kaltinamojo / susijusio asmens, asmens duomenu nurodymas.
+    security_deposit: ` Nurodymai ir tvarkos išaiškinimas surašant protokolą dėl užstato mokėjimo: 
 
-2 Nusikalstamos veikos / administracinio teises pažeidimo, kuriuo esate kaltinamas, nurodymas, už užstata atsakingos institucijos, jos banko rekvizitu ir bylos numerio nurodymas.
+1 Jūsų kaip įtariamojo/pažeidėjo asmens duomenys. 
 
-3 Kadangi neturite nuolatines gyvenamosios vietos ar buvimo vietos atitinkamo istatymo taikymo srityje
-– galite, siekdami išvengti suemimo (Baudžiamojo proceso kodekso [StPO] 127a str.)
-– privalote, siekdami užtikrinti baudžiamaji / baudu procesa (StPO 132 str.), Administraciniu nusižengimu istatymo (OWiG) 46 str.
-pateikti užstata už numatoma bauda / bausme ir proceso išlaidas. Jei neturite euru, užstatas gali buti pateiktas kita konvertuojama valiuta, vertybiniais popieriais, ikeiciant turta arba pateikiant tinkamu treciuju šaliu garantija.
+2 Nurodyta nusikalstama veika /nusižengimas, dėl kurio esate įtariamas, už užstatą atsakinga įstaiga bei jos banko rekvizitai ir kasos numeris. 
 
-Jei, esant StPO 132 str. numatytam atvejui, jus savanoriškai nepateikiate užstato ir nepaskiriate igaliotojo atstovo dokumentams iteikti, jusu gabenamos ir jums priklausancios transporto priemones ar kiti daiktai bus konfiskuoti. Del to galite bet kuriuo metu prašyti teismo sprendimo iš kompetentingo apylinkes teismo (StPO 132 str. 3 d. kartu su 98 str. 2 d.). Konfiskuotus daiktus galite atsiimti pervede užstata i 2 punkte nurodyta saskaita ir, jei taikoma, veliau paskyre igaliotaji atstova dokumentams iteikti (žr. 4 punkta).
+3 Kadangi atitinkamo įstatymo galiojimo srityje Jūs neturite nuolatinės gyvenamosios vietos arba negyvenate
 
-Pinigu suma arba daiktai bus perduoti kompetentingai institucijai. Isiteisejusio nuosprendžio atveju užstatas bus iskaitytas i bauda / bausme ir proceso išlaidas, o konfiskuoti daiktai bus realizuoti. Jei bauda / bausme nepaskiriama arba paskiriama mažesne bauda / bausme, likusi suma arba daiktas jums bus gražinti.
+– galite norėdamas išvengti sulaikymo (Vokietijos Baudžiamojo proceso kodekso [StPO] 127a str.)
 
-4 Instrukcija pagal StPO 153a str.:
-„Jums buvo pranešta, kad prokuratura, gavusi jusu sutikima, pagal Baudžiamojo proceso kodekso (StPO) 153a str. 1 d. gali atsisakyti pateikti kaltinimus mainais i baudos, lygios jusu valstybes iždui pateikto užstato sumai, sumokejima. Taip pat buvote informuoti, kad tuomet veika nebebus baudžiama kaip nusižengimas, o procesas bus galutinai nutrauktas nepatiriant papildomu išlaidu ir nedarant irašo Federaliniame centriniame registre.
-Kaip kaltinamasis, kuris taip pat buvo informuotas, kad kitu atveju jums gali buti pateikti vieši kaltinimai, jus sutinkate su proceso nutraukimu ir jusu pateikto užstato kaip baudos naudojimu pagal StPO 153a str. 1 d.“
+– privalote baudžiamosios bylos/bylos dėl piniginės baudos skyrimo proceso užtikrinimui (Vokietijos BPK [StPO] 132 str., Administracinių nusižengimų įstatymo [OWiG] 46 str.) 
 
-Prašome nurodyti savo / kitus banko rekvizitus tam atvejui, jei jums reiketu gražinti likusia suma.
+sumokėti Jums gresiančios piniginės baudos užstatą už bylos nagrinėjimo išlaidas. Jei Jūs neturite eurų, užstatu gali būti kita konvertuojama valiuta, vertybiniai popieriai, turto įkeitimas arba už Jus gali laiduoti teisę tam turintys tretieji asmenys. 
 
-5 Pasirašydami patvirtinate, kad gavote „Užstato pateikimo protokolo“ kopija ir ši informacini / instrukciju lapa. Policijos pareigunas pasirašydamas patvirtina jusu pateikto užstato gavima.`
+Jei Jūs savanoriškai neįnešite užstato ir nepaskirsite įgaliotinio su byla susijusiems dokumentams pristatyti, kaip nurodyta Vokietijos BPK 132 str., tai transporto priemonės ar kiti daiktai, kuriuos su savimi turite ar kurie Jums priklauso, bus paimti. Dėl to Jūs galite bet kada kreiptis į atsakingą apylinkės teismą ir pareikalauti teisėjo sprendimo (Vokietijos BPK 132 str. 3 d. susiejant su BPK 98 str. 2 d.). Jums suteikiama galimybė išpirkti paimtus daiktus pervedant užstatą į 2 punkte nurodytą sąskaitą ir tam tikromis aplinkybėmis vėliau paskiriant įgaliotinį dokumentams pristatyti (žr. 4 punktą). 
+
+Pinigai arba daiktai perduodami atsakingai institucijai. Jei bausmė įsiteisėja, užstatas pasiliekamas padengti piniginę baudą ir bylos išlaidas, tam tikrais atvejais realizuojami paimti daiktai. Jei nepaskiriama piniginė bauda arba paskiriama mažesnio dydžio bauda, tai likusi suma arba daiktai Jums grąžinami. 
+
+4 Teisių išaiškinimas pagal Vokietijos BPK 153a str.: 
+„Jums išaiškinta, kad prokuratūra Jums sutikus pagal Vokietijos Baudžiamojo proceso kodekso (StPO) 153a str. 1 d. gali atsisakyti pateikti kaltinimą, jei sumokėsite valstybės iždui baudą, kuri lygi Jūsų užstato dydžiui. Be to, Jums buvo išaiškinta, kad po to veika nepersekiojama kaip baudžiamasis nusižengimas, bet byla galutinai nutraukiama, tačiau papildomų išlaidų čia neatsiranda, ir ši veika neįtraukiama į Federalinį nusikalstamų veikų registrą. 
+Jums taip pat išaiškinta, kad būdamas įtariamasis sutinkate su bylos nutraukimu ir Jūsų pateikto užstato naudojimu baudai sumokėti pagal Vokietijos BPK 153a str. 1 d; priešingu atveju Jums gali būti pateiktas kaltinimas. " 
+
+Prašom nurodyti savo banko rekvizitus, jei neišnaudotą pinigų dalį reikėtų Jums grąžinti, nurodykite savo ar kito asmens sąskaitą. 
+
+5 Savo parašu patvirtinate, kad gavote „Protokolo dėl užstato mokėjimo“ nuorašą ir šį Nurodymų/išaiškinimų lapą. Policijos pareigūnas savo parašu patvirtina, kad gavo Jūsų sumokėtą užstatą.`
   },
   nl: { 
-    security_deposit: `1 Vermelding van uw persoonsgegevens als beschuldigde/betrokkene.
+    security_deposit: ` Instructies/voorlichting omtrent het proces van een zekerheidsstelling:
+ 
+1 Opgave van uw persoonlijke gegevens als verdachte/betrokkene. 
 
-2 Vermelding van het strafbare feit/de administratieve overtreding waarvan u wordt beschuldigd, van de autoriteit die verantwoordelijk is voor de borgsom, evenals haar bankgegevens en referentienummer.
+2 Vermelding van het strafbaar feit/de overtreding waarvan u wordt beschuldigd, de inzake de zekerheidsstelling bevoegde instantie alsmede haar bankgegevens en kascode. 
 
-3 Aangezien u geen vaste woon- of verblijfplaats heeft binnen het toepassingsgebied van de betreffende wet
-– kunt u, om uw arrestatie te voorkomen (§ 127a Wetboek van Strafvordering [StPO])
-– moet u, om de straf-/boeteprocedure veilig te stellen (§ 132 StPO), § 46 van de Wet op administratieve overtredingen (OWiG)
-een borgsom betalen voor de te verwachten boete/straf en voor de kosten van de procedure. Als u niet over euro's beschikt, kan de borgsom worden voldaan in een andere inwisselbare valuta, in effecten, door inpandgeving of door borgtocht van geschikte derden.
+3 Aangezien u binnen het geldigheidsgebied van de wet niet beschikt over een vaste woon- of verblijfplaats
 
-Als u in het geval van § 132 StPO de borgsom niet vrijwillig betaalt en geen gemachtigde voor de betekening van documenten aanwijst, worden vervoermiddelen of andere voorwerpen die u bij u heeft en die uw eigendom zijn, in beslag genomen. U kunt hiervoor te allen tijde een rechterlijke beslissing aanvragen bij de bevoegde kantonrechter (§ 132 lid 3 juncto § 98 lid 2 StPO). U heeft de mogelijkheid om de in beslag genomen voorwerpen vrij te geven door de borgsom over te maken naar de onder nr. 2 vermelde rekening en eventueel door alsnog een gemachtigde voor de betekening aan te wijzen (zie nr. 4).
+– kunt u ter afwending van uw inhechtenisneming (§ 127a Strafprozessordnung [StPO/Wetboek van strafvordering]
 
-Het geldbedrag of de voorwerpen worden overgedragen aan de bevoegde autoriteit. In het geval van een rechtsgeldige bestraffing wordt de borgsom verrekend met de boete/straf en de kosten van de procedure, en worden eventueel in beslag genomen voorwerpen te gelde gemaakt. Als er geen of een lagere boete/straf wordt opgelegd, wordt het resterende bedrag of het voorwerp aan u geretourneerd.
+– moet u ter veiligstelling van de straf-/boeteprocedure (§ 132 StPO/Wetboek van strafvordering), § 46 Gesetz über Ordnungswidrigkeiten (OWiG/Wet inzake administratieve overtredingen)
+ 
+voor de te verwachten geldstraf/geldboete alsmede voor de kosten van de procedure een zekerheid stellen. De zekerheid kan, indien u niet over euro beschikt, in een andere converteerbare valuta, in waardepapieren, door pandgeving of via een borgstelling van een passende derde worden gesteld. 
 
-4 Instructie conform § 153a StPO:
-"U bent erover geïnformeerd dat het openbaar ministerie met uw instemming conform § 153a lid 1 van het Wetboek van Strafvordering (StPO) kan afzien van vervolging in ruil voor betaling van een boete ter hoogte van de door u betaalde borgsom ten gunste van de staatskas. Ook is u medegedeeld dat het feit dan niet meer als overtreding wordt bestraft, maar dat de procedure definitief wordt stopgezet zonder dat er extra kosten ontstaan en zonder dat er een aantekening in het federale centrale register wordt gemaakt.
-Als beschuldigde die er tevens over is geïnformeerd dat anders de publieke aanklacht tegen u kan worden ingediend, gaat u akkoord met het stopzetten van de procedure en de door u betaalde borgsom als boete conform § 153a lid 1 StPO."
+Wanneer u in geval van § 132 StPO/Wetboek van strafvordering de zekerheid niet vrijwillig stelt en geen domiciliehouder aanwijst, worden de transportmiddelen of andere voorwerpen die u bij u heeft en die aan u toebehoren, in beslag genomen. U kunt hiervoor te allen tijde bij het bevoegde Amtsgericht (kantongerecht) een rechterlijke beslissing aanvragen (§ 132, derde lid, juncto § 98, tweede lid, StPO/Wetboek van strafvordering). U heeft de mogelijkheid om de in beslag genomen voorwerpen door middel van overmaking van de zekerheidsstelling op het onder nr. 2 vermelde rekeningnummer en eventueel een aanwijzing achteraf van een domiciliehouder (zie nr. 4) weer vrij te kopen. 
 
-Geef a.u.b. voor het geval er een restbedrag aan u moet worden geretourneerd uw/een andere bankverbinding op.
+Het geldbedrag of de voorwerpen worden afgegeven aan de bevoegde instantie. In het geval van een rechtsgeldige veroordeling wordt de zekerheidsstelling met de geldstraf/geldboete en de kosten van de procedure verrekend en worden de eventueel in beslag genomen voorwerpen te gelde gemaakt. Indien geen straf of een lagere geldstraf/ geldboete wordt vastgelegd, wordt het resterende bedrag of het in beslag genomen voorwerp aan u teruggegeven. 
 
-5 U bevestigt met uw handtekening dat u een kopie van het „Proces-verbaal inzake een borgsom“ en dit informatie-/instructieblad heeft ontvangen. De politieambtenaar bevestigt door ondertekening de ontvangst van de door u betaalde borgsom.`
+4 Voorlichting overeenkomstig § 153a StPO/Wetboek van strafvordering: 
+"U werd erop gewezen dat het Openbaar Ministerie met uw toestemming op grond van § 153a, eerste lid, van het Duitse wetboek van strafvordering (Strafprozessordnung - StPO) kan afzien van een inbeschuldigingstelling tegen betaling van een boete aan de staatskas ter hoogte van de door u gestelde zekerheid. Tevens werd u medegedeeld dat de daad dan niet meer wordt bestraft als overtreding, maar dat de procedure, zonder dat bijkomende kosten ontstaan en registratie in het centrale federale strafregister geschiedt, definitief wordt geseponeerd. 
+Als verdachte die tevens geïnformeerd werd dat anders een strafvervolging tegen u kan worden ingesteld, verklaart u zich akkoord met de seponering van de procedure en de van de door u gestelde zekerheid als boete overeenkomstig § 153a, eerste lid, StPO/Wetboek van strafvordering." 
+
+Vermeld voor het geval dat een resterend bedrag aan u teruggegeven dient te worden eventueel de gegevens van uw eigen bank of van een andere bank. 
+
+5 Met uw handtekening bevestigt u dat u een afschrift van het „proces-verbaal inzake een zekerheidsstelling“ en dit instructie-/voorlichtingsformulier heeft ontvangen. Die politieambtenaar bevestigt met zijn handtekening de ontvangst van de door u gestelde zekerheid.`
   },
   hr: { 
-    security_deposit: `1 Navodenje Vaših osobnih podataka kao optuženika/pogodene osobe.
+    security_deposit: ` Napomene/naputak o zapisniku o jamčevini:
 
-2 Navodenje kaznenog/prekršajnog djela za koje se teretite, tijela nadležnog za jamcevinu, kao i njegovih bankovnih podataka i referentnog broja.
+1 Vaši osobni podaci kao okrivljenika(ice)/oštećene strane. 
 
-3 Buduci da nemate prebivalište ili boravište na podrucju primjene doticnog zakona
-– možete, kako biste izbjegli uhicenje (§ 127.a Zakona o kaznenom postupku [StPO])
-– morate, kako biste osigurali kazneni/prekršajni postupak (§ 132. StPO), § 46. Zakona o prekršajima (OWiG)
-položiti jamcevinu za ocekivanu novcanu kaznu te za troškove postupka. Ako ne raspolažete eurima, jamcevina se može položiti u drugoj konvertibilnoj valuti, u vrijednosnim papirima, zalogom ili jamstvom prikladnih trecih osoba.
+2 Podaci o kaznenom djelu/prekršaju za koje Vas se optužuje, podaci o tijelima nadležnima za određivanje jamčevine kao i njihova bankovna veza i oznaka blagajne. 
 
-Ako u slucaju § 132. StPO ne položite dobrovoljno jamcevinu i ne imenujete opunomocenika za dostavu, prijevozna sredstva ili drugi predmeti koje imate kod sebe i koji Vam pripadaju bit ce oduzeti. S tim u vezi u svakom trenutku možete zatražiti sudsku odluku od nadležnog opcinskog suda (§ 132. st. 3. u vezi s § 98. st. 2. StPO). Imate mogucnost otkupiti zaplijenjene predmete prijenosom jamcevine na racun naveden pod tockom 2 i, prema potrebi, naknadnim imenovanjem opunomocenika za dostavu (vidi tocku 4).
+3 Budući da nemate stalno prebivalište ili mjesto boravka u području važenja dotičnog zakona,
 
-Novcani iznos ili predmeti bit ce predani nadležnom tijelu. U slucaju pravomocne kazne jamcevina ce se uracunati u novcanu kaznu i troškove postupka te ce se unovciti eventualno oduzeti predmeti. Ako se novcana kazna ne odredi ili se odredi u manjem iznosu, preostali iznos ili predmet bit ce Vam vracen.
+– možete u svrhu sprječavanja Vašeg uhićenja (čl. 127a Zakona o kaznenom postupku [StPO])
 
-4 Pouka u skladu s § 153.a StPO:
-"Pouceni ste da državno odvjetništvo, uz Vašu suglasnost, prema § 153.a st. 1. Zakona o kaznenom postupku (StPO) može odustati od podizanja optužnice u zamjenu za placanje kazne u visini jamcevine koju ste položili u korist državne blagajne. Takoder Vam je priopceno da se djelo tada više nece kažnjavati kao prekršaj, vec ce se postupak konacno obustaviti bez dodatnih troškova i bez upisa u Savezni središnji registar.
-Kao okrivljenik koji je takoder poucen da bi se inace protiv Vas mogla podici javna optužba, pristajete na obustavu postupka i na jamcevinu koju ste položili kao kaznu u skladu s § 153.a st. 1. StPO."
+– morate u svrhu osiguranja kaznenog postupka/postupka određivanja visine globe (čl. 132 Zakona o kaznenom postupku), čl. 46 Prekršajnog zakona (OWiG) 
 
-Molimo navedite svoje/druge bankovne podatke za slucaj da Vam se mora vratiti preostali iznos.
+platiti jamčevinu za očekivanu novčanu kaznu/globu kao i troškove postupka. Ukoliko nemate eure, jamčevinu možete realizirati u nekoj drugoj konvertibilnoj valuti, vrijednosnim papirima, davanjem stvari u zalog ili jamstvom odgovarajućeg trećeg lica. 
 
-5 Svojim potpisom potvrdujete da ste primili presliku „Zapisnika o polaganju jamcevine“ i ovog informativnog/poucnog lista. Policijski službenik svojim potpisom potvrduje primitak jamcevine koju ste položili.`
+Ako jamčevinu, u slučaju čl. 132 Zakona o kaznenom postupku (StPO), ne platite dobrovoljno i ne imenujete opunomoćenika za primanje pismena, zaplijenit će Vam se transportno sredstvo ili neki drugi predmeti koje imate sa sobom i koji Vam pripadaju. U tom smislu možete na nadležnom općinskom sudu u svako doba zatražiti sudsku odluku (čl. 132 st. 3 u vezi s čl. 98 st. 2 Zakona o kaznenom postupku (StPO)). Imate mogućnost da doznakom jamčevine na račun naveden pod br. 2 i eventualno naknadnim imenovanjem opunomoćenika za primanje pismena (v. br. 4), vratite zaplijenjene predmete. 
+
+Novčani iznos odnosno predmeti biti će predani nadležnom tijelu. U slučaju pravomoćnog kažnjavanja jamčevina će se obračunati s novčanom kaznom/globom i troškovima postupka, a zaplijenjeni predmet biti će iskorišteni. Ako se novčana kazna/globa ne odredi ili se odredi u malom iznosu, preostali iznos novca odnosno stvari biti će Vam vraćeni. 
+
+4 Naputak prema čl. 153a Zakona o kaznenom postupku (StPO): 
+
+"Obaviješteni ste o tome da državno odvjetništvo, s Vašom suglasnošću prema čl.153a st. 1 Zakona o kaznenom postupku (StPO), može odustati od podizanja optužnice ako izvršite plaćanje globe u iznosu koji Vam je određen jamčevinom, a u korist državne blagajne. Osim toga priopćeno Vam je da se time djelo više ne kažnjava kao prijestup, već se postupak konačno obustavlja bez nastajanja dodatnih troškova i unosa u savezni središnji registar. 
+Kao okrivljenik(ica) koji/koja je obaviješten(a) o tome da se u suprotnom protiv njega/nje može podići javna tužba, suglasni ste s obustavom postupka i jamčevinom koju ste uplatili kao globu prema čl. 153a st. 1 Zakona o kaznenom postupku (StPO)." 
+
+Molimo Vas da u slučaju da Vam se treba vratiti preostali iznos, navedete Vašu/neku drugu bankovnu vezu. 
+
+5 Svojim potpisom potvrđujete da ste primili kopiju „Zapisnik o jamčevini“ i ovaj list s napomenama/naputkom. Policijska djelatnica/policijski djelatnik potvrđuje svojim potpisom prijem jamčevine koju ste platili.`
   },
 };
 
