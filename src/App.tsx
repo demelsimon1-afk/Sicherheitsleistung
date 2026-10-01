@@ -8,15 +8,15 @@ const LANGUAGES = [
   { id: 'fr', name: 'Français', germanCountry: 'Frankreich', countryCode: 'fr' },
   { id: 'es', name: 'Español', germanCountry: 'Spanien', countryCode: 'es' },
   { id: 'it', name: 'Italiano', germanCountry: 'Italien', countryCode: 'it' },
-  { id: 'ru', name: '???????', germanCountry: 'Russland', countryCode: 'ru' },
+  { id: 'ru', name: ' Русский', germanCountry: 'Russland', countryCode: 'ru' },
   { id: 'pl', name: 'Polski', germanCountry: 'Polen', countryCode: 'pl' },
   { id: 'ro', name: 'Româna', germanCountry: 'Rumänien', countryCode: 'ro' },
   { id: 'tr', name: 'Türkçe', germanCountry: 'Türkei', countryCode: 'tr' },
   { id: 'sl', name: 'Slovenšcina', germanCountry: 'Slowenien', countryCode: 'si' },
   { id: 'hu', name: 'Magyar', germanCountry: 'Ungarn', countryCode: 'hu' },
-  { id: 'uk', name: '??????????', germanCountry: 'Ukraine', countryCode: 'ua' },
-  { id: 'hi', name: '??????', germanCountry: 'Indien', countryCode: 'in' },
-  { id: 'bg', name: '?????????', germanCountry: 'Bulgarien', countryCode: 'bg' },
+  { id: 'uk', name: ' українська', germanCountry: 'Ukraine', countryCode: 'ua' },
+  { id: 'hi', name: ' भारतीय', germanCountry: 'Indien', countryCode: 'in' },
+  { id: 'bg', name: ' български', germanCountry: 'Bulgarien', countryCode: 'bg' },
   { id: 'cs', name: 'Ceština', germanCountry: 'Tschechien', countryCode: 'cz' },
   { id: 'lt', name: 'Lietuviu', germanCountry: 'Litauen', countryCode: 'lt' },
   { id: 'nl', name: 'Nederlands', germanCountry: 'Niederlande', countryCode: 'nl' },
@@ -25,7 +25,8 @@ const LANGUAGES = [
 
 const TEXT_DATABASE = {
   de: {
-    security_deposit: `1 Angabe Ihrer Personalien als Beschuldigte(r)/Betroffene(r).
+    security_deposit: ` Hinweise/Belehrung zur Niederschrift über eine Sicherheitsleistung:
+1 Angabe Ihrer Personalien als Beschuldigte(r)/Betroffene(r).
 
 2 Angabe der Straftat/Ordnungswidrigkeit, die Ihnen vorgeworfen wird, der für die Sicherheitsleistung zuständigen Behörde sowie deren Bankverbindung und Kassenzeichen.
 
@@ -47,26 +48,23 @@ Geben Sie bitte für den Fall, dass ein verbleibender Betrag an Sie zurückgegeb
 5 Sie bestätigen mit Ihrer Unterschrift, eine Durchschrift der „Niederschrift über eine Sicherheitsleistung“ und dieses Hinweis-/Belehrungsblatt erhalten zu haben. Die/Der Polizeibeamtin/Polizeibeamte bestätigt durch Unterschrift den Empfang der von Ihnen geleisteten Sicherheit.`
   },
   en: { 
-    security_deposit: `1 Details of your personal data as the accused/affected person.
+    security_deposit: ` Information/Instruction on the Bail Payment Recording Process:
+ 1 You are required to give your particulars as the party charged with an offence/the party affected. 
 
-2 Details of the criminal offense/administrative offense of which you are accused, the authority responsible for the security deposit, and its bank details and reference number.
+2 You are required to give details of the criminal/non-criminal offence with which you are charged, the authority responsible for the bail payment, and the latter's bank account details and transaction number. 
 
-3 Since you do not have a fixed residence or whereabouts within the scope of the relevant law
-– you may, to avert your arrest (Sec. 127a of the Code of Criminal Procedure [StPO])
-– you must, to secure the criminal/fine proceedings (Sec. 132 StPO), Sec. 46 of the Act on Regulatory Offenses (OWiG)
-provide security for the expected fine/penalty and for the costs of the proceedings. If you do not have Euros, the security can be provided in another convertible currency, in securities, by pledging, or by a guarantee from suitable third parties.
+3 You do not have a fixed abode or residence within the scope of the relevant law therefore:
+– you may make a bail payment in order to avoid detention (art. 127a of the German Code of Criminal Procedure (StPO))
+– you must make a bail payment to provide security for the criminal/summary proceedings (art. 132 of the German Code of Criminal Procedure (StPO), art. 46 of the German Administrative Offences Act (OWiG))
+in respect of the anticipated fine/penalty and in respect of the costs of the proceedings. If you cannot pay in euro, the payment may be made in another convertible currency, in securities, or by way of surety or guarantee provided by appropriate third parties. 
+If you do not volunteer the bail payment under art. 132 of the German Code of Criminal Procedure (StPO) and do not name an authorised recipient then your means of transport or other objects which you have with you and which belong to you will be seized. You may request that the judicial decision be made by the district court in this matter at any time (art. 132 para. 3 in conjunction with art. 98 para. 2 of the German Code of Criminal Procedure (StPO)). You may retrieve the confiscated objects by remitting the bail payment to the account specified in section 2 and, where applicable, by naming an authorised recipient (cf. section 4). 
+The money and/or objects shall be ceded to the competent authority. In the event of a legally binding penalty, the bail shall be set off against the fine/penalty and against the costs of the proceedings and, where applicable, against the confiscated items. If no fine/penalty is imposed, or if you are fined a lower amount, then the remaining amount or the item shall be returned to you. 
 
-If, in the case of Sec. 132 StPO, you do not voluntarily provide the security deposit and do not name an authorized recipient for service of documents, means of transport or other objects that you are carrying with you and that belong to you will be confiscated. You can apply for a judicial decision on this at any time from the competent local court (Sec. 132 (3) in conjunction with Sec. 98 (2) StPO). You have the option of releasing the confiscated items by transferring the security deposit to the account specified under No. 2 and, if applicable, by subsequently naming an authorized recipient for service of documents (see No. 4).
+4 Instruction under art. 153a of the German Code of Criminal Procedure (StPO): "You have been informed that the public prosecution department may refrain from indictment under art. 153a para. 1 of the German Code of Criminal Procedure (StPO) subject to your consent and subject to the payment of the applicable amount of bail to public funds by way of a fine. You have also been informed that the action will then not be treated as a punishable offence but that there will be a final stay of proceedings without incurring additional costs and without an entry being made in the Federal Central Register of Convictions. 
+Having been informed that public charges may be pressed against you in your capacity as the accused, you consent to the stay of proceedings and the bail payment by way of a fine under art. 153a para. 1 of the German Code of Criminal Procedure (StPO)." 
+Please give the details of your bank account or a different bank account in case there is an amount left over which must be repaid to you. 
 
-The amount of money or the items will be handed over to the competent authority. In the event of a legally binding punishment, the security deposit will be offset against the fine/penalty and the costs of the proceedings, and any confiscated items will be utilized. If no fine/penalty or a fine/penalty in a lower amount is set, the remaining amount or the item will be returned to you.
-
-4 Instruction pursuant to Sec. 153a StPO:
-"You have been informed that the public prosecutor's office, with your consent, pursuant to Sec. 153a (1) of the Code of Criminal Procedure (StPO), may refrain from bringing charges in return for payment of a fine in the amount of the security deposit provided by you in favor of the state treasury. You have also been informed that the act will then no longer be punished as an offense, but the proceedings will be finally discontinued without incurring additional costs and without an entry in the Federal Central Criminal Register.
-As an accused person who has also been informed that otherwise public charges may be brought against you, you agree to the discontinuation of the proceedings and the security deposit provided by you as a fine pursuant to Sec. 153a (1) StPO."
-
-Please provide your/another bank connection in case a remaining amount must be returned to you.
-
-5 By signing, you confirm that you have received a copy of the "Record of a Security Deposit" and this information/instruction sheet. The police officer confirms receipt of the security provided by you with their signature.`
+5 On signing this document you are confirming receipt of a copy of the "Bail Payment Record" and this information/ instruction sheet. The police officer signs to acknowledge receipt of your bail payment.`
   },
   fr: { 
     security_deposit: `1 Indication de vos données personnelles en tant qu'accusé(e)/personne concernée.
