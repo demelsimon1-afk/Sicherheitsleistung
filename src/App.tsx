@@ -26,6 +26,7 @@ const LANGUAGES = [
 const TEXT_DATABASE = {
   de: {
     security_deposit: ` Hinweise/Belehrung zur Niederschrift über eine Sicherheitsleistung:
+
 1 Angabe Ihrer Personalien als Beschuldigte(r)/Betroffene(r).
 
 2 Angabe der Straftat/Ordnungswidrigkeit, die Ihnen vorgeworfen wird, der für die Sicherheitsleistung zuständigen Behörde sowie deren Bankverbindung und Kassenzeichen.
@@ -49,19 +50,27 @@ Geben Sie bitte für den Fall, dass ein verbleibender Betrag an Sie zurückgegeb
   },
   en: { 
     security_deposit: ` Information/Instruction on the Bail Payment Recording Process:
+
  1 You are required to give your particulars as the party charged with an offence/the party affected. 
 
 2 You are required to give details of the criminal/non-criminal offence with which you are charged, the authority responsible for the bail payment, and the latter's bank account details and transaction number. 
 
 3 You do not have a fixed abode or residence within the scope of the relevant law therefore:
+
 – you may make a bail payment in order to avoid detention (art. 127a of the German Code of Criminal Procedure (StPO))
+
 – you must make a bail payment to provide security for the criminal/summary proceedings (art. 132 of the German Code of Criminal Procedure (StPO), art. 46 of the German Administrative Offences Act (OWiG))
+
 in respect of the anticipated fine/penalty and in respect of the costs of the proceedings. If you cannot pay in euro, the payment may be made in another convertible currency, in securities, or by way of surety or guarantee provided by appropriate third parties. 
+
 If you do not volunteer the bail payment under art. 132 of the German Code of Criminal Procedure (StPO) and do not name an authorised recipient then your means of transport or other objects which you have with you and which belong to you will be seized. You may request that the judicial decision be made by the district court in this matter at any time (art. 132 para. 3 in conjunction with art. 98 para. 2 of the German Code of Criminal Procedure (StPO)). You may retrieve the confiscated objects by remitting the bail payment to the account specified in section 2 and, where applicable, by naming an authorised recipient (cf. section 4). 
+
 The money and/or objects shall be ceded to the competent authority. In the event of a legally binding penalty, the bail shall be set off against the fine/penalty and against the costs of the proceedings and, where applicable, against the confiscated items. If no fine/penalty is imposed, or if you are fined a lower amount, then the remaining amount or the item shall be returned to you. 
 
 4 Instruction under art. 153a of the German Code of Criminal Procedure (StPO): "You have been informed that the public prosecution department may refrain from indictment under art. 153a para. 1 of the German Code of Criminal Procedure (StPO) subject to your consent and subject to the payment of the applicable amount of bail to public funds by way of a fine. You have also been informed that the action will then not be treated as a punishable offence but that there will be a final stay of proceedings without incurring additional costs and without an entry being made in the Federal Central Register of Convictions. 
+
 Having been informed that public charges may be pressed against you in your capacity as the accused, you consent to the stay of proceedings and the bail payment by way of a fine under art. 153a para. 1 of the German Code of Criminal Procedure (StPO)." 
+
 Please give the details of your bank account or a different bank account in case there is an amount left over which must be repaid to you. 
 
 5 On signing this document you are confirming receipt of a copy of the "Bail Payment Record" and this information/ instruction sheet. The police officer signs to acknowledge receipt of your bail payment.`
